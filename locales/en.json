@@ -1,0 +1,294 @@
+{
+  "lang": "en",
+  "dir": "/en/",
+  "short": "EN",
+  "ui": {
+    "title": "De kracht van het ouwehoeren | The book for everyone who survives meetings",
+    "metaDesc": "Ouwehoeren is a skill. Measure your Ouwehoer Index, discover your humor style and play Meeting Bingo. The book by psychiatrist and entrepreneur Bram van der Boom is coming soon.",
+    "ogTitle": "De kracht van het ouwehoeren | The Dutch art of talking nonsense at work",
+    "ogDesc": "Your best ideas don't happen in the meeting. They happen in the hallway, right after. Measure your Ouwehoer Index.",
+    "nav": { "index": "The Index", "humor": "Humor style", "bingo": "Bingo", "book": "The book", "cta": "Keep me posted" },
+    "hero": {
+      "badge": "The book is coming soon",
+      "h1": "Your best ideas don't happen in the meeting.",
+      "flip": "They happen in the hallway, right after.",
+      "sub": "Somewhere along the way we all decided that being serious equals being professional. Meanwhile the real work happens somewhere else: at the coffee machine, in the hallway, during the idle chatter we secretly feel guilty about. The Dutch have a word for it: ouwehoeren. Psychiatrist and entrepreneur Bram van der Boom takes down the myth. People who master it build better teams, better deals and a better working life.",
+      "cta1": "Measure your Ouwehoer Index",
+      "cta2": "Play Meeting Bingo",
+      "note": "Free, 4 minutes, and you get a score your colleagues will envy. Or not. That tells you something too."
+    },
+    "manifest": {
+      "kicker": "Why this book",
+      "h2": "The least serious word in Dutch turns out to be the most <em>underrated skill.</em>",
+      "lede": "Ouwehoeren (Dutch, untranslatable): the art of loose, playful, agenda-free conversation. The hallway after the meeting is more productive than the meeting itself. You know it. Everyone knows it. And still we pretend it's the other way around.",
+      "cards": [
+        { "t": "Light conversation is not a break from the work", "p": "It is the work. Deals, teams and companies are built in the informal moment. Science has known it for decades, organizations systematically ignore it." },
+        { "t": "Ouwehoeren is a skill, not a talent", "p": "It can be trained. Almost anyone can learn it, and it starts with the willingness to take yourself a little less seriously. This book never asks you to become someone else." },
+        { "t": "Connection comes before content", "p": "A psychiatrist who became an entrepreneur saw the same law in the therapy room and the boardroom. Understand it, and you build a team where people dare to say what they think." }
+      ],
+      "quote": "There's nothing like a gleam of humor to reassure you that a fellow human being is ticking inside a strange face.",
+      "cite": "Eva Hoffman"
+    },
+    "oi": { "kicker": "Test 1", "h2": "The <em>Ouwehoer Index</em>", "lede": "How good are you at the informal game? This is not a humor type test. It measures how strongly you connect: daring, reading the room, recovering, being real and drawing people toward you." },
+    "hq": { "kicker": "Test 2", "h2": "What's your <em>humor style?</em>", "lede": "The Magnet, the Stand-up, the Sweetheart or the Sniper. Twelve situations, two axes, a result you'll recognize the moment you read it. So will your colleagues." },
+    "bingo": { "kicker": "Play along", "h2": "<em>Meeting Bingo</em>", "lede": "Straight from the book. Open this card during your next meeting and tap every phrase you hear. We'll wait.", "count": "of 12 heard", "share": "Share your card", "reset": "New meeting", "src": "From chapter 1, The myth of the professional" },
+    "sci": {
+      "kicker": "Not an opinion. Science.",
+      "h2": "Why chatting at the coffee machine is <em>simply work</em>",
+      "lede": "Every claim in the book rests on research and on a true story. Three previews.",
+      "cards": [
+        { "tag": "Robin Dunbar, Oxford", "t": "Chatter is the successor of grooming", "p": "Other primates bond through the body: grooming, picking, scratching. We found a faster alternative: language, and above all its lightest form. Laughing together triggers exactly the same endorphins. A good chat at the coffee machine does neurologically the same as an arm around your shoulder." },
+        { "tag": "Google, Project Aristotle", "t": "The best team is the safest team", "p": "Google spent years searching for the formula of the perfect team. The answer: psychological safety, the feeling that you can say what you think without being punished for it. And the shortest route there runs through laughing together." },
+        { "tag": "The post-covid reality", "t": "Hybrid work destroyed the informal moment", "p": "Working from home eliminated exactly what this book is about: the spontaneous, unplanned encounter. Organizations visibly struggle with connection, retention and culture. This book gives the answer other management books skip." }
+      ]
+    },
+    "book": {
+      "kicker": "The book",
+      "h2": "Talking nonsense is a skill. <em>Time to take it seriously.</em>",
+      "lede": "This book teaches you no tricks and never asks you to become someone else. It shows you how to take off the mask, how humor works (even if you think you're not funny), and how to build a team where people dare to say what they think. Because they laughed together first.",
+      "coverTop": "Management, but fun",
+      "coverSub": "Why the hallway delivers more than the meeting room",
+      "moves": [
+        { "t": "Why it works", "p": "The myth of the professional, informal talk as a craft, and what a therapist and a croquette teach you about connection." },
+        { "t": "How you do it yourself", "p": "Crazy authenticity, the duet effect, humor as a superpower, and flirting for advanced students." },
+        { "t": "To your team and organization", "p": "The coffee machine as boardroom, and how to build a culture where informal talk simply counts as work." }
+      ],
+      "authorHead": "About the author",
+      "authorBio": "Bram van der Boom is a psychiatrist and entrepreneur. He is the founder of Psyflix, the largest video platform for professionals in Dutch mental healthcare. As a psychiatrist he treated hundreds of people; as an entrepreneur he built a company from scratch. In both worlds he discovered the same thing: the real work happens in the informal moment. This is his first book."
+    },
+    "signup": {
+      "kicker": "Stay in the loop",
+      "h2": "Be the first to know",
+      "lede": "The book is coming soon, with an international edition to follow. Leave your email address and you'll hear the moment it's out. No weekly newsletter full of quick wins, promised. Only a message when there is really something to tell.",
+      "placeholder": "your@email.com",
+      "btn": "Keep me posted",
+      "ok": "Thank you. Your email app now opens a short message to the author. Hit send and you're on the list.",
+      "fine": "No spam. No \"let's circle back\". Just a message when the book is out."
+    },
+    "footer": { "byline": "A book by Bram van der Boom, psychiatrist and entrepreneur", "quote": "Take the work seriously. Yourself, a little less." }
+  },
+  "data": {
+    "jargon": ["Let's take this offline", "Let's circle back on that", "Let's park that for now", "Moving forward", "Low-hanging fruit", "Let's touch base next week", "I hear what you're saying", "We should set up a working group", "Let's align on this", "Quick win", "Let me unpack that", "Synergy"],
+    "dims": {
+      "opener": { "name": "Opener power", "desc": "Your ability to break patterns and open conversations in an unexpected way." },
+      "leeskracht": { "name": "Room reading", "desc": "How well you read the room: sensing the mood, seeing the boundaries, catching the timing." },
+      "herstel": { "name": "Recovery", "desc": "What you do when it goes wrong. When the joke doesn't land, when it gets awkward." },
+      "authentiek": { "name": "Authenticity", "desc": "How close you stay to your real self in professional and social situations." },
+      "magnetisme": { "name": "Magnetism", "desc": "The degree to which people are drawn toward you. Or whether you always have to go to them." }
+    },
+    "oiLevels": [
+      { "label": "Master ouwehoerder", "desc": "You are a force of nature. People feel better when you're around, and you have the ability to change any room. Your challenge: keep using deliberately what you already have." },
+      { "label": "Advanced ouwehoerder", "desc": "You've got it in you. The base is strong: you dare, you read, you recover. There are a few dimensions left to grow in, and once you tackle those you'll be unstoppable." },
+      { "label": "Ouwehoerder in training", "desc": "You have potential, but you still hold yourself back. Maybe out of insecurity, maybe out of habit. This book was written for you: small steps that make a big difference." },
+      { "label": "Quiet force", "desc": "You are more of a listener than a talker, and that is not a flaw. But there is more in you than you currently show. Start with authenticity, the rest follows." }
+    ],
+    "oiQuestions": [
+      { "dim": "opener", "q": "You arrive at a conference where you know nobody. You're standing near a group of strangers. What do you do?", "opts": [
+        { "text": "You wait until someone approaches you", "s": 0 },
+        { "text": "You introduce yourself politely and ask what they do", "s": 1 },
+        { "text": "You make a remark about something in the room that catches your eye", "s": 2 },
+        { "text": "You toss in an absurd observation or question that instantly breaks the ice", "s": 3 }]},
+      { "dim": "opener", "q": "You're in a meeting that has been duller than expected for ten minutes. Everyone stares at their laptop. What do you do?", "opts": [
+        { "text": "You wait it out. It's not your responsibility", "s": 0 },
+        { "text": "You ask a substantive question to get the conversation going", "s": 1 },
+        { "text": "You make a light remark about the mood in the room", "s": 2 },
+        { "text": "You break the pattern with something unexpected: a joke, an absurd question, a personal anecdote", "s": 3 }]},
+      { "dim": "opener", "q": "Someone asks you: 'How was your weekend?' What do you answer?", "opts": [
+        { "text": "'Good, yours?', and you leave it at that", "s": 0 },
+        { "text": "You give an honest, short answer about what you did", "s": 1 },
+        { "text": "You pick the most remarkable detail and blow it up into a story", "s": 2 },
+        { "text": "You answer with something so unexpected that the other person stops for a second", "s": 3 }]},
+      { "dim": "leeskracht", "q": "You make a joke and you see that one person in the group doesn't laugh. What do you register?", "opts": [
+        { "text": "Nothing. You don't pay attention to who laughs and who doesn't", "s": 0 },
+        { "text": "You notice it but think: that person has no sense of humor", "s": 1 },
+        { "text": "You notice it and wonder if the joke went too far for that person", "s": 2 },
+        { "text": "You notice it instantly, read the reason (discomfort, timing, personal), and adjust your tone", "s": 3 }]},
+      { "dim": "leeskracht", "q": "You're at a reception. A small group is clearly having a serious conversation. You want to join. What do you do?", "opts": [
+        { "text": "You walk over and join the conversation", "s": 0 },
+        { "text": "You wait until the conversation gets lighter and then step in", "s": 1 },
+        { "text": "You read the body language (closed or open circle?) and pick your moment", "s": 2 },
+        { "text": "You catch a fragment, wait for a natural moment, and join in with something that fits the tone", "s": 3 }]},
+      { "dim": "leeskracht", "q": "A colleague talks enthusiastically about a project, but in a side sentence you hear something that sounds like doubt. What do you do?", "opts": [
+        { "text": "You listen politely and get on with your day", "s": 0 },
+        { "text": "You ask more about the project in general", "s": 1 },
+        { "text": "You make a mental note and bring it up later", "s": 2 },
+        { "text": "You pick it up right away: 'Wait, that last bit sounded like you're not entirely sure about something'", "s": 3 }]},
+      { "dim": "herstel", "q": "You make a joke that completely fails to land. Painful silence. What do you do?", "opts": [
+        { "text": "You feel bad and keep quiet for the rest of the conversation", "s": 0 },
+        { "text": "You act as if it didn't happen and quickly move on", "s": 1 },
+        { "text": "You name it: 'Okay, clearly not my best one', and you move on", "s": 2 },
+        { "text": "You turn it into a second joke: 'I'm going to need a moment to process that myself', and the silence becomes a laugh after all", "s": 3 }]},
+      { "dim": "herstel", "q": "You say something personal to a new colleague and you see it was too early. The other person pulls back. What do you do?", "opts": [
+        { "text": "You feel guilty and avoid that person for a while", "s": 0 },
+        { "text": "You act as if nothing happened and continue on safe ground", "s": 1 },
+        { "text": "You acknowledge it subtly: 'Sorry, I may have been a bit too direct', and you give space", "s": 2 },
+        { "text": "You make it light with a joke about yourself and let the other person choose whether to continue", "s": 3 }]},
+      { "dim": "herstel", "q": "You get corrected in a group about something you just said. It feels awkward. How do you react?", "opts": [
+        { "text": "You get defensive or quiet. It hits you harder than you show", "s": 0 },
+        { "text": "You accept the correction politely and move on", "s": 1 },
+        { "text": "You thank the person and make a light remark about your own mistake", "s": 2 },
+        { "text": "You laugh at yourself, exaggerate your own mistake theatrically, and the tension disappears", "s": 3 }]},
+      { "dim": "authentiek", "q": "You're in a meeting with senior management. How differently do you behave compared to being with your direct colleagues?", "opts": [
+        { "text": "Completely differently. You weigh every word and act more formal", "s": 0 },
+        { "text": "Quite differently. You hold back and play it safe", "s": 1 },
+        { "text": "Slightly adjusted. You read the situation but stay recognizable", "s": 2 },
+        { "text": "Hardly at all. You're the same person, no matter who is at the table", "s": 3 }]},
+      { "dim": "authentiek", "q": "Someone asks your opinion about an idea you don't find very strong. The person who came up with it is sitting right there. What do you do?", "opts": [
+        { "text": "You say you think it's a good idea. You don't want to hurt anyone", "s": 0 },
+        { "text": "You mention a few positive points and keep your criticism to yourself", "s": 1 },
+        { "text": "You give your honest opinion but wrap it carefully", "s": 2 },
+        { "text": "You say what you think: direct, honest, with respect but without a sugar coating", "s": 3 }]},
+      { "dim": "authentiek", "q": "After a long workday someone asks: 'You okay?' You actually don't feel that great. What do you say?", "opts": [
+        { "text": "'Yeah, all good!' You let nothing show", "s": 0 },
+        { "text": "'Bit tired, but I'm fine.' You give a hint but keep your distance", "s": 1 },
+        { "text": "You're honest: 'No, not really. Rough day'", "s": 2 },
+        { "text": "You're honest and light: 'I've felt better, but I'm still alive. Count your blessings'", "s": 3 }]},
+      { "dim": "magnetisme", "q": "At a networking event, one hour in: where are you standing?", "opts": [
+        { "text": "Alone or near the exit. You actually want to leave", "s": 0 },
+        { "text": "Talking to one person you already knew", "s": 1 },
+        { "text": "Talking to two or three new people you approached", "s": 2 },
+        { "text": "In the middle of a group that somehow formed around you. You're not exactly sure how", "s": 3 }]},
+      { "dim": "magnetisme", "q": "You organize informal drinks for colleagues. How many people show up?", "opts": [
+        { "text": "Few. You don't organize things like that quickly", "s": 0 },
+        { "text": "A few regulars you always hang out with", "s": 1 },
+        { "text": "A good group. You know enough people who enjoy it", "s": 2 },
+        { "text": "More than you expected. Even people you didn't invite show up", "s": 3 }]},
+      { "dim": "magnetisme", "q": "You start a new job. After two weeks: how many people know your name?", "opts": [
+        { "text": "Only your direct team", "s": 0 },
+        { "text": "Your team plus a few people from other departments", "s": 1 },
+        { "text": "Surprisingly many. You walked around and made contact", "s": 2 },
+        { "text": "Almost everyone, and some already have an anecdote about you", "s": 3 }]}
+    ],
+    "hqQuestions": [
+      { "q": "Your colleague trips over a cable in the meeting room. What do you do?", "opts": [
+        { "text": "You turn it into a big show: 'Ladies and gentlemen, this afternoon's main act!'", "e": 2, "a": -1 },
+        { "text": "You grin dryly: 'That cable has been the best performing team member here for months.'", "e": -2, "a": 2 },
+        { "text": "You help him up and make a joke about your own clumsiness", "e": -1, "a": -2 },
+        { "text": "You say with a straight face: 'Nice. Exactly the energy this meeting needed.'", "e": -2, "a": 1 }]},
+      { "q": "You're at a party where you hardly know anyone. How do you break the ice?", "opts": [
+        { "text": "You loudly observe something absurd in the room. Everyone hears it", "e": 2, "a": 0 },
+        { "text": "You make a personal, slightly vulnerable remark to the person next to you", "e": -1, "a": -2 },
+        { "text": "You make a sharp joke about the host or the food, right on the edge", "e": 1, "a": 2 },
+        { "text": "You wait, observe, and then place exactly the right remark at exactly the right moment", "e": -2, "a": 0 }]},
+      { "q": "A presentation goes completely wrong. The slides won't work. What do you say?", "opts": [
+        { "text": "You improvise theatrically: 'Welcome to my TED Talk. Without the T, the E and the D.'", "e": 2, "a": 0 },
+        { "text": "You mutter to your neighbor: 'This is the best thing that could have happened to this presentation.'", "e": -2, "a": 2 },
+        { "text": "You say: 'This is exactly what my life looks like. Full of good intentions, zero execution.'", "e": 0, "a": -2 },
+        { "text": "You take over the room with energy and turn it into a story that carries everyone along", "e": 2, "a": -1 }]},
+      { "q": "Your best friend proudly tells you about a new idea you don't find very strong. What do you do?", "opts": [
+        { "text": "You enthusiastically point out what IS good about it and joke about your own bad ideas", "e": 0, "a": -2 },
+        { "text": "You make a dry remark: 'Did someone pay you for this, or is it bad for free?'", "e": -1, "a": 2 },
+        { "text": "You play devil's advocate in a big, theatrical way", "e": 2, "a": 1 },
+        { "text": "You smile subtly and ask a question that lets him reach the conclusion himself", "e": -2, "a": -1 }]},
+      { "q": "Your manager sends an email with 47 bullet points and the subject line 'Quick update'. What do you think?", "opts": [
+        { "text": "You reply-all: 'Thanks for the summary. Is there also a summary of the summary?'", "e": 2, "a": 2 },
+        { "text": "You DM a colleague: 'I just read a novel. Spoiler: the ending is an action item.'", "e": -1, "a": 1 },
+        { "text": "You let it go but retell it later as a funny story at drinks", "e": 0, "a": -1 },
+        { "text": "You send your manager a kind note that it could maybe be shorter", "e": -1, "a": -2 }]},
+      { "q": "Someone tells a joke that completely fails to land. Painful silence. What do you do?", "opts": [
+        { "text": "You save it by piling on top of it yourself. Bigger, more absurd", "e": 2, "a": -1 },
+        { "text": "You say with a straight face: 'That was so bad it almost came back around to good. Almost.'", "e": -1, "a": 2 },
+        { "text": "You laugh along, even though it wasn't funny. You appreciate the attempt", "e": -1, "a": -2 },
+        { "text": "You let the silence exist. Secretly enjoy it. Look around.", "e": -2, "a": 1 }]},
+      { "q": "You're asked to give a toast at a colleague's farewell. How do you approach it?", "opts": [
+        { "text": "Big, warm, with lots of public compliments and a few inside jokes", "e": 2, "a": -1 },
+        { "text": "Short, dry, with one spot-on observation that first silences the room and then makes it laugh", "e": -1, "a": 2 },
+        { "text": "Personal, honest, with a story about a vulnerable moment you shared", "e": 0, "a": -2 },
+        { "text": "You open with an unexpected anecdote nobody sees coming and end with a quiet wink", "e": -2, "a": 0 }]},
+      { "q": "A discussion at work is stuck. Everyone is dug into the trenches. What do you do?", "opts": [
+        { "text": "You name the absurdity out loud, for everyone: 'We're behaving like toddlers with a boardroom budget.'", "e": 2, "a": 1 },
+        { "text": "You whisper something to your neighbor that makes him laugh. The tension breaks", "e": -2, "a": 0 },
+        { "text": "You make a joke about yourself: 'I don't get it either, I just figured I'd keep nodding.'", "e": 0, "a": -2 },
+        { "text": "You throw in an example so odd that it cracks the whole thing open", "e": 1, "a": -1 }]},
+      { "q": "Which comedians appeal to you most?", "opts": [
+        { "text": "Robin Williams, Jim Carrey: big, energetic, unpredictable", "e": 2, "a": -1 },
+        { "text": "Ricky Gervais, Bill Burr: sharp, honest, confrontational", "e": 1, "a": 2 },
+        { "text": "Jerry Seinfeld, James Acaster: warm, observational, relatable", "e": -1, "a": -2 },
+        { "text": "Steven Wright, Mitch Hedberg: dry, deadpan, quietly razor-sharp", "e": -2, "a": 1 }]},
+      { "q": "You're stuck in a boring meeting. What goes through your head?", "opts": [
+        { "text": "You think about how you'll retell this at drinks later, voices and all", "e": 2, "a": 0 },
+        { "text": "You come up with a devastating one-liner you might whisper to your neighbor", "e": -1, "a": 2 },
+        { "text": "You think of a way to derail the conversation in a warm direction", "e": 0, "a": -1 },
+        { "text": "You quietly observe the theater around you and enjoy the absurdity", "e": -2, "a": 0 }]},
+      { "q": "How do you react when someone compliments you?", "opts": [
+        { "text": "You make a big thing of it. Exaggeratedly modest, theatrical, so everyone laughs", "e": 2, "a": -1 },
+        { "text": "You bounce it back with a sharp joke: 'Finally, someone who gets it.'", "e": 0, "a": 2 },
+        { "text": "You thank them sincerely and joke about your own shortcomings", "e": -1, "a": -2 },
+        { "text": "You nod, smile, and say nothing. Let it exist for a moment", "e": -2, "a": 0 }]},
+      { "q": "Last question. What is humor to you?", "opts": [
+        { "text": "Energy: the spark that brings a room to life", "e": 2, "a": -1 },
+        { "text": "A weapon: telling the truth in a way that lands", "e": 0, "a": 2 },
+        { "text": "Connection: the moment two people make real contact", "e": -1, "a": -2 },
+        { "text": "Observation: seeing what others don't see", "e": -2, "a": 1 }]}
+    ],
+    "hqTypes": {
+      "magnet": { "name": "The Magnet", "sub": "Expressive and affiliative",
+        "desc": "You are the person everyone gathers around. Your humor is big, warm and contagious. You fill a room with energy without it ever coming at anyone's expense. People feel better when you're there, and they often don't know exactly why. It's your presence, your willingness to be silly, your refusal to take yourself too seriously.",
+        "strength": "You create atmosphere. When you're in a meeting, the tone is different. Lighter. Freer. People dare more.",
+        "risk": "Sometimes you can dominate the room. Not everyone is in the mood for big energy all the time. Learn to read when subtlety is more powerful.",
+        "tip": "Use your magnetism deliberately in the first five minutes of a meeting. You set the tone, and that tone determines everything that follows." },
+      "standup": { "name": "The Stand-up", "sub": "Expressive and aggressive",
+        "desc": "You are the person who says what everyone thinks but nobody dares to say. Your humor is big, confrontational, sometimes uncomfortable and almost always on target. You dare to name the elephant in the room, and you do it with a grin that disarms people just enough to listen.",
+        "strength": "You break patterns. Where others dance around the issue, you go straight at it, with humor as the lubricant.",
+        "risk": "You can go too far. What you see as honesty can feel like an attack to the other person. Check your intention.",
+        "tip": "The best Stand-ups combine sharpness with warmth. Make the joke, and then show that you care about the person and about more than the laugh." },
+      "sweetheart": { "name": "The Sweetheart", "sub": "Subtle and affiliative",
+        "desc": "You are the quiet force. Your humor is warm, soft and connecting. You are rarely the loudest person in the room and yet often the most appreciated. You make people happy without them being able to say exactly how. Self-deprecation is your superpower: you carry yourself lightly enough to put others at ease.",
+        "strength": "You build trust. People open up to you because you feel safe. Your humor hurts nobody and reaches everyone.",
+        "risk": "You can be too nice. Sometimes a sharp remark is needed and you avoid it. Learn to name the uncomfortable too. It makes you more complete.",
+        "tip": "Don't underestimate your own impact. The Sweetheart is often overlooked in favor of the louder types, but in a team you are the glue. Without you the whole thing falls apart." },
+      "sniper": { "name": "The Sniper", "sub": "Subtle and aggressive",
+        "desc": "You are the master of dry, understated sharpness. Deadpan. The joke that only lands three seconds later, and then all the harder. You say little, but when you say something, it hits. Your humor is a precision instrument: narrow and deep.",
+        "strength": "Your timing is lethal. Where others make ten jokes, you make one. And that one beats the ten combined.",
+        "risk": "Not everyone reads you. Subtle humor can get lost on people used to a more expressive style, and dry sharpness can land wrong with people who don't know you yet.",
+        "tip": "Combine your sharpness with the occasional warm moment. The Sniper who also dares to be vulnerable is irresistible, because nobody sees it coming." }
+    },
+    "t": {
+      "copied": "Copied",
+      "copyBtn": "Copy",
+      "restart": "Do it again",
+      "oiTag": "Assessment",
+      "oiIntroTitle": "How good are you, really?",
+      "oiIntroMeta": "15 scenarios, 5 dimensions, 4 minutes",
+      "oiStart": "Start the test",
+      "oiLabel": "Your Ouwehoer Index",
+      "oiOf": "out of 100",
+      "oiProfile": "Your profile",
+      "oiStrongest": "Strongest dimension",
+      "oiGrowth": "Room to grow",
+      "oiScoreWord": "Score",
+      "oiCtaQ": "Want to raise your Ouwehoer Index?",
+      "oiCtaA": "The book teaches you how. Keep me posted",
+      "oiShareBtn": "Share your score",
+      "oiCardBtn": "Score card",
+      "oiShareNote": "Share your score and see who on your team dares. That's lesson one right there.",
+      "oiShareText": "My Ouwehoer Index is {score}/100: {label}. What's yours? Take the test from De kracht van het ouwehoeren.",
+      "cardOiKicker": "MY OUWEHOER INDEX",
+      "hqTag": "Quiz",
+      "hqIntroTitle": "Four types. One is you.",
+      "hqIntroMeta": "12 situations, 3 minutes, no right or wrong answers. Well, almost none.",
+      "hqStart": "Start the quiz",
+      "hqStrength": "Your strength",
+      "hqRisk": "Your pitfall",
+      "hqTip": "For Monday morning",
+      "hqCtaQ": "In the book: how every style gets sharper, including yours.",
+      "hqCtaA": "Keep me posted",
+      "hqShareBtn": "Share your style",
+      "hqCardBtn": "Style card",
+      "hqShareNote": "Send this to the colleague who thinks he's a Stand-up. See if the test agrees.",
+      "hqShareText": "My humor style is {name} ({sub}). Which one are you? Take the quiz from De kracht van het ouwehoeren.",
+      "cardHqKicker": "MY HUMOR STYLE",
+      "cardLine1": "Your best ideas don't happen in the meeting.",
+      "cardLine2": "They happen in the hallway, right after.",
+      "bingoStamp": "Heard it",
+      "bingoV12": "Twelve or more? Your organization is being sabotaged. By itself.",
+      "bingoV8": "Eight or more. This is no longer a meeting, this is a linguistic emergency. Send this card to the chair.",
+      "bingoV4": "Four or more. You are officially in a real meeting. Hang in there, and keep counting.",
+      "bingoV1": "It begins. Keep your card handy, the rest will come.",
+      "bingoShare12": "Full card at Meeting Bingo. My organization is being sabotaged. By itself. Play along via De kracht van het ouwehoeren.",
+      "bingoShareN": "I heard {n} of the 12 meeting cliches live today. Play Meeting Bingo from De kracht van het ouwehoeren.",
+      "mailSubject": "Keep me posted about De kracht van het ouwehoeren",
+      "mailBody": "Hi Bram,\n\nPut me on the list for the book (English edition please).\n\nMy email address: {email}\n\nCheers!"
+    }
+  }
+}

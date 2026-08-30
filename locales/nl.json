@@ -1,0 +1,294 @@
+{
+  "lang": "nl",
+  "dir": "/",
+  "short": "NL",
+  "ui": {
+    "title": "De kracht van het ouwehoeren | Het boek voor iedereen die vergaderingen overleeft",
+    "metaDesc": "Ouwehoeren is een vak. Meet je Ouwehoer-Index, ontdek je humorstijl en speel de Vergaderwoorden-Bingo. Het boek van psychiater en ondernemer Bram van der Boom verschijnt binnenkort.",
+    "ogTitle": "De kracht van het ouwehoeren",
+    "ogDesc": "Je beste ideeën ontstaan niet in de vergadering. Ze ontstaan op de gang, daarna. Meet je Ouwehoer-Index.",
+    "nav": { "index": "De Index", "humor": "Humorstijl", "bingo": "Bingo", "book": "Het boek", "cta": "Hou me op de hoogte" },
+    "hero": {
+      "badge": "Het boek verschijnt binnenkort",
+      "h1": "Je beste ideeën ontstaan niet in de vergadering.",
+      "flip": "Ze ontstaan op de gang, daarna.",
+      "sub": "We hebben met z'n allen besloten dat serieus zijn professioneel is. Ondertussen gebeurt het echte werk ergens anders: bij de koffieautomaat, in de wandelgang, tijdens het geouwehoer waar we ons stiekem schuldig over voelen. Psychiater en ondernemer Bram van der Boom rekent af met de mythe. Wie kan ouwehoeren, bouwt betere teams, betere deals en een beter werkleven.",
+      "cta1": "Meet je Ouwehoer-Index",
+      "cta2": "Speel de Vergaderwoorden-Bingo",
+      "note": "Gratis, 4 minuten, en je krijgt een score waar je collega's jaloers op worden. Of niet. Dat zegt ook iets."
+    },
+    "manifest": {
+      "kicker": "Waarom dit boek",
+      "h2": "Het minst serieuze woord van Nederland blijkt de meest <em>onderschatte vaardigheid.</em>",
+      "lede": "De gang na de vergadering is productiever dan de vergadering zelf. Dat weet je. Iedereen weet het. En toch blijven we doen alsof het andersom is.",
+      "cards": [
+        { "t": "Het luchtige gesprek is geen pauze van het werk", "p": "Het is het werk. Deals, teams en bedrijven worden gebouwd in het informele moment. De wetenschap weet het allang, organisaties negeren het stelselmatig." },
+        { "t": "Ouwehoeren is een vak, geen talent", "p": "Het is trainbaar. Bijna iedereen kan het leren, en het begint bij de bereidheid jezelf niet te serieus te nemen. Dit boek vraagt niet of je iemand anders wilt worden." },
+        { "t": "Verbinding gaat voor inhoud", "p": "Een psychiater die ondernemer werd zag dezelfde wet in de therapiekamer en de directiekamer. Wie dat begrijpt, bouwt een team waar mensen durven te zeggen wat ze denken." }
+      ],
+      "quote": "Er is niets als een glimp van humor om je ervan te verzekeren dat er achter een vreemd gezicht een medemens klopt.",
+      "cite": "Eva Hoffman"
+    },
+    "oi": { "kicker": "Test 1", "h2": "De <em>Ouwehoer-Index</em>", "lede": "Hoe goed ben je in ouwehoeren? Dit is geen humortypetest. Dit meet hoe sterk je verbindt: durven, de kamer lezen, herstellen, echt zijn en mensen naar je toe trekken." },
+    "hq": { "kicker": "Test 2", "h2": "Welke <em>humorstijl</em> heb je?", "lede": "De Magneet, de Stand-up, de Sweetheart of de Sniper. Twaalf situaties, twee assen, een uitslag die je herkent zodra je hem leest. Je collega's trouwens ook." },
+    "bingo": { "kicker": "Speel mee", "h2": "De <em>Vergaderwoorden-Bingo</em>", "lede": "Rechtstreeks uit het boek. Open deze kaart tijdens je volgende vergadering en tik elke zin aan die je hoort. Wij wachten wel.", "count": "van de 12 gehoord", "share": "Deel je kaart", "reset": "Nieuwe vergadering", "src": "Uit hoofdstuk 1, De mythe van de professional" },
+    "sci": {
+      "kicker": "Geen mening. Wetenschap.",
+      "h2": "Waarom kletsen bij de koffieautomaat <em>gewoon werk</em> is",
+      "lede": "Elke claim in het boek staat op onderzoek en op een echt verhaal. Drie voorproefjes.",
+      "cards": [
+        { "tag": "Robin Dunbar, Oxford", "t": "Ouwehoeren is de opvolger van vlooien", "p": "Andere primaten binden via het lijf: vlooien, verzorgen, krabben. Wij vonden een sneller alternatief: taal, en dan vooral de lichtste vorm ervan. Samen lachen zet precies dezelfde endorfines aan. Een goed gesprek bij de koffieautomaat doet neurologisch hetzelfde als een arm om je schouder." },
+        { "tag": "Google, Project Aristotle", "t": "Het beste team is het veiligste team", "p": "Google zocht jaren naar de formule van het perfecte team. De uitkomst: psychologische veiligheid, het gevoel dat je kunt zeggen wat je denkt zonder afgestraft te worden. En de kortste route daarnaartoe loopt via samen lachen." },
+        { "tag": "Post-corona werkelijkheid", "t": "Hybride werken sloopte het informele moment", "p": "Thuiswerken elimineerde precies datgene waar dit boek over gaat: de spontane, ongeplande ontmoeting. Organisaties worstelen zichtbaar met verbinding, retentie en cultuur. Dit boek geeft het antwoord dat andere managementboeken overslaan." }
+      ]
+    },
+    "book": {
+      "kicker": "Het boek",
+      "h2": "Ouwehoeren is een vak. <em>Tijd om het serieus te nemen.</em>",
+      "lede": "Dit boek leert je geen trucjes en vraagt niet of je iemand anders wilt worden. Het laat zien hoe je het masker afzet, hoe humor werkt (ook als je denkt dat je niet grappig bent), en hoe je een team bouwt waar mensen durven te zeggen wat ze denken. Omdat ze eerst samen hebben gelachen.",
+      "coverTop": "Management, maar dan leuk",
+      "coverSub": "Waarom de gang meer oplevert dan de vergaderzaal",
+      "moves": [
+        { "t": "Waarom het werkt", "p": "De mythe van de professional, ouwehoeren als vak, en wat een therapeut en een kroket je leren over verbinding." },
+        { "t": "Hoe je het zelf doet", "p": "Gekke authenticiteit, het duet-effect, humor als superkracht, en versieren voor gevorderden." },
+        { "t": "Naar je team en organisatie", "p": "De koffieautomaat als boardroom, en hoe je een cultuur bouwt waarin ouwehoeren gewoon werk is." }
+      ],
+      "authorHead": "Over de auteur",
+      "authorBio": "Bram van der Boom is psychiater en ondernemer. Hij is oprichter van Psyflix, het grootste videoplatform voor professionals in de Nederlandse geestelijke gezondheidszorg. Als psychiater behandelde hij honderden mensen; als ondernemer bouwde hij een bedrijf vanaf nul. In beide werelden ontdekte hij hetzelfde: het echte werk gebeurt in het informele moment. Dit is zijn eerste boek."
+    },
+    "signup": {
+      "kicker": "Blijf op de hoogte",
+      "h2": "Wees er als eerste bij",
+      "lede": "Het boek verschijnt binnenkort. Laat je e-mailadres achter en je hoort als eerste wanneer het er is. Je krijgt geen wekelijkse nieuwsbrief vol quick wins, beloofd. Alleen bericht als er echt iets te melden valt.",
+      "placeholder": "jouw@email.nl",
+      "btn": "Hou me op de hoogte",
+      "ok": "Dank je. Je e-mailprogramma opent nu een berichtje aan de auteur. Op verzenden klikken en je staat op de lijst.",
+      "fine": "Geen spam. Geen \"even schakelen\". Gewoon een berichtje als het boek er is."
+    },
+    "footer": { "byline": "Een boek van Bram van der Boom, psychiater en ondernemer", "quote": "Neem het werk serieus. Jezelf wat minder." }
+  },
+  "data": {
+    "jargon": ["Laten we de neuzen dezelfde kant op zetten", "Ik wil jullie even meenemen in...", "Dat gaan we even parkeren", "De stip op de horizon", "Laagdrempelig en drempelloos", "Op basis van de aligned visie", "Dat is een mooi haakje", "Ik hoor wat je zegt", "Laten we daar een werkgroep voor opzetten", "We moeten de verbinding zoeken", "Dat neem ik mee", "Quick win"],
+    "dims": {
+      "opener": { "name": "Opener-kracht", "desc": "Je vermogen om patronen te doorbreken en gesprekken op een onverwachte manier te openen." },
+      "leeskracht": { "name": "Leeskracht", "desc": "Hoe goed je de kamer leest: de sfeer voelt, de grenzen ziet, de timing pakt." },
+      "herstel": { "name": "Herstelvermogen", "desc": "Wat je doet als het misgaat. Als de grap niet landt, als het ongemakkelijk wordt." },
+      "authentiek": { "name": "Authenticiteit", "desc": "Hoe dicht je bij je echte zelf bent in professionele en sociale situaties." },
+      "magnetisme": { "name": "Magnetisme", "desc": "De mate waarin mensen naar je toe trekken. Of jij altijd naar hen toe moet." }
+    },
+    "oiLevels": [
+      { "label": "Meester-ouwehoerder", "desc": "Je bent een natuurkracht. Mensen voelen zich beter als jij in de buurt bent, en je hebt het vermogen om elke kamer te veranderen. Jouw uitdaging: bewust blijven inzetten wat je al kunt." },
+      { "label": "Gevorderde ouwehoerder", "desc": "Je hebt het in je. De basis is sterk: je durft, je leest, je herstelt. Er zijn een paar dimensies waar je nog kunt groeien, en als je die aanpakt word je niet te stoppen." },
+      { "label": "Ouwehoerder in ontwikkeling", "desc": "Je hebt potentie, maar je houdt jezelf nog vaak in. Misschien door onzekerheid, misschien door gewoonte. Dit boek is voor jou geschreven: kleine stappen die groot verschil maken." },
+      { "label": "Stille kracht", "desc": "Je bent meer een luisteraar dan een prater, en dat is niet verkeerd. Maar er zit meer in je dan je nu laat zien. Begin bij authenticiteit, de rest volgt vanzelf." }
+    ],
+    "oiQuestions": [
+      { "dim": "opener", "q": "Je komt op een congres waar je niemand kent. Je staat bij een groepje onbekenden. Wat doe je?", "opts": [
+        { "text": "Je wacht tot iemand jou aanspreekt", "s": 0 },
+        { "text": "Je stelt je netjes voor en vraagt wat ze doen", "s": 1 },
+        { "text": "Je maakt een opmerking over iets in de omgeving dat je opvalt", "s": 2 },
+        { "text": "Je gooit er een absurde observatie of vraag tussendoor die het ijs direct breekt", "s": 3 }]},
+      { "dim": "opener", "q": "Je zit in een vergadering die al tien minuten saaier is dan verwacht. Iedereen kijkt naar hun laptop. Wat doe je?", "opts": [
+        { "text": "Je wacht tot het voorbij is. Het is niet jouw verantwoordelijkheid", "s": 0 },
+        { "text": "Je stelt een inhoudelijke vraag om het gesprek op gang te brengen", "s": 1 },
+        { "text": "Je maakt een luchtige opmerking over de sfeer in de kamer", "s": 2 },
+        { "text": "Je doorbreekt het patroon met iets onverwachts: een grap, een absurde vraag, een persoonlijke anekdote", "s": 3 }]},
+      { "dim": "opener", "q": "Je krijgt de vraag: 'Hoe was je weekend?' Wat antwoord je?", "opts": [
+        { "text": "'Goed, jij?', en je laat het daarbij", "s": 0 },
+        { "text": "Je geeft een eerlijk, kort antwoord over wat je hebt gedaan", "s": 1 },
+        { "text": "Je kiest het meest bijzondere detail en blaast dat op tot een verhaal", "s": 2 },
+        { "text": "Je antwoordt met iets totaal onverwachts dat de ander even doet stoppen", "s": 3 }]},
+      { "dim": "leeskracht", "q": "Je maakt een grap en je ziet dat één persoon in het groepje niet lacht. Wat registreer je?", "opts": [
+        { "text": "Niets. Je let er niet op wie wel of niet lacht", "s": 0 },
+        { "text": "Je merkt het op maar denkt: die persoon heeft geen humor", "s": 1 },
+        { "text": "Je merkt het op en vraagt je af of de grap voor die persoon te ver ging", "s": 2 },
+        { "text": "Je merkt het direct, leest de reden (ongemak, timing, persoonlijk), en past je toon aan", "s": 3 }]},
+      { "dim": "leeskracht", "q": "Je bent op een borrel. Er staat een groepje bij elkaar dat duidelijk een serieus gesprek voert. Je wilt erbij. Wat doe je?", "opts": [
+        { "text": "Je loopt ernaartoe en mengt je in het gesprek", "s": 0 },
+        { "text": "Je wacht tot het gesprek lichter wordt en stapt dan in", "s": 1 },
+        { "text": "Je leest de lichaamstaal (gesloten of open kring?) en kiest je moment", "s": 2 },
+        { "text": "Je vangt een fragment op, wacht op een natuurlijk moment, en haakt aan met iets wat past bij de toon", "s": 3 }]},
+      { "dim": "leeskracht", "q": "Een collega vertelt enthousiast over een project, maar je hoort in een bijzin iets dat klinkt als twijfel. Wat doe je?", "opts": [
+        { "text": "Je luistert beleefd en gaat verder met je dag", "s": 0 },
+        { "text": "Je vraagt door over het project in het algemeen", "s": 1 },
+        { "text": "Je noteert het mentaal en brengt het later ter sprake", "s": 2 },
+        { "text": "Je pikt het direct op: 'Wacht, dat laatste klonk alsof je ergens niet helemaal zeker van bent'", "s": 3 }]},
+      { "dim": "herstel", "q": "Je maakt een grap die totaal niet landt. Pijnlijke stilte. Wat doe je?", "opts": [
+        { "text": "Je voelt je slecht en houdt de rest van het gesprek je mond", "s": 0 },
+        { "text": "Je doet alsof het niet is gebeurd en gaat snel door", "s": 1 },
+        { "text": "Je benoemt het: 'Oké, die was duidelijk niet mijn beste', en je gaat door", "s": 2 },
+        { "text": "Je maakt er een tweede grap van: 'Ik ga dat zelf even verwerken', en de stilte wordt alsnog een lach", "s": 3 }]},
+      { "dim": "herstel", "q": "Je zegt iets persoonlijks tegen een nieuwe collega en je ziet dat het te vroeg was. De ander trekt zich terug. Wat doe je?", "opts": [
+        { "text": "Je voelt je schuldig en vermijdt die persoon een tijdje", "s": 0 },
+        { "text": "Je doet alsof er niets is gebeurd en gaat verder op veilig terrein", "s": 1 },
+        { "text": "Je erkent het subtiel: 'Sorry, ik was misschien iets te direct', en je geeft ruimte", "s": 2 },
+        { "text": "Je maakt het licht met een grap over jezelf en laat de ander kiezen of ze verder willen gaan", "s": 3 }]},
+      { "dim": "herstel", "q": "Je wordt in een groep gecorrigeerd op iets wat je net zei. Het voelt ongemakkelijk. Hoe reageer je?", "opts": [
+        { "text": "Je wordt defensief of stil. Het raakt je meer dan je laat zien", "s": 0 },
+        { "text": "Je accepteert de correctie beleefd en gaat door", "s": 1 },
+        { "text": "Je bedankt de persoon en maakt een luchtige opmerking over je eigen fout", "s": 2 },
+        { "text": "Je lacht om jezelf, overdrijft je eigen fout theatraal, en de spanning verdwijnt", "s": 3 }]},
+      { "dim": "authentiek", "q": "Je zit in een vergadering met senior management. Hoe anders gedraag je je dan met je directe collega's?", "opts": [
+        { "text": "Compleet anders. Je weegt elk woord en bent formeler", "s": 0 },
+        { "text": "Behoorlijk anders. Je houdt je in en speelt het veilig", "s": 1 },
+        { "text": "Een beetje aangepast. Je leest de situatie maar blijft herkenbaar", "s": 2 },
+        { "text": "Nauwelijks. Je bent dezelfde persoon, ongeacht wie er aan tafel zit", "s": 3 }]},
+      { "dim": "authentiek", "q": "Iemand vraagt je mening over een idee dat je niet zo sterk vindt. De bedenker zit erbij. Wat doe je?", "opts": [
+        { "text": "Je zegt dat je het een goed idee vindt. Je wilt niemand kwetsen", "s": 0 },
+        { "text": "Je noemt een paar positieve punten en houdt je kritiek voor je", "s": 1 },
+        { "text": "Je geeft je eerlijke mening maar verpakt het zorgvuldig", "s": 2 },
+        { "text": "Je zegt wat je vindt: direct, eerlijk, met respect maar zonder suikerlaag", "s": 3 }]},
+      { "dim": "authentiek", "q": "Na een lange werkdag vraagt iemand: 'Alles goed?' Je voelt je eigenlijk niet zo lekker. Wat zeg je?", "opts": [
+        { "text": "'Ja hoor, prima!' Je laat niets merken", "s": 0 },
+        { "text": "'Beetje moe, maar gaat wel.' Je geeft een hint maar houdt afstand", "s": 1 },
+        { "text": "Je bent eerlijk: 'Nee, niet echt eigenlijk. Zware dag gehad'", "s": 2 },
+        { "text": "Je bent eerlijk én licht: 'Ik heb me wel eens beter gevoeld, maar ik leef nog. Tel je zegeningen'", "s": 3 }]},
+      { "dim": "magnetisme", "q": "Op een netwerkevent na een uur: waar sta je?", "opts": [
+        { "text": "Alleen of bij de uitgang. Je wilt eigenlijk weg", "s": 0 },
+        { "text": "In gesprek met één persoon die je al kende", "s": 1 },
+        { "text": "In gesprek met twee of drie nieuwe mensen die je hebt aangesproken", "s": 2 },
+        { "text": "Midden in een groepje dat zich rond jou heeft gevormd. Je weet niet precies hoe", "s": 3 }]},
+      { "dim": "magnetisme", "q": "Je organiseert een informele borrel voor collega's. Hoeveel mensen komen er?", "opts": [
+        { "text": "Weinig. Je organiseert niet snel zoiets", "s": 0 },
+        { "text": "Een paar vaste collega's waarmee je altijd optrekt", "s": 1 },
+        { "text": "Een goede groep. Je kent genoeg mensen die dat leuk vinden", "s": 2 },
+        { "text": "Meer dan je had verwacht. Er komen ook mensen die je niet had uitgenodigd", "s": 3 }]},
+      { "dim": "magnetisme", "q": "Je begint bij een nieuwe baan. Na twee weken: hoeveel mensen kennen je naam?", "opts": [
+        { "text": "Alleen je directe team", "s": 0 },
+        { "text": "Je team plus een paar mensen van andere afdelingen", "s": 1 },
+        { "text": "Verrassend veel. Je hebt rondgelopen en contact gezocht", "s": 2 },
+        { "text": "Bijna iedereen, en sommigen hebben al een anekdote over je", "s": 3 }]}
+    ],
+    "hqQuestions": [
+      { "q": "Je collega struikelt over een kabel in de vergaderzaal. Wat doe je?", "opts": [
+        { "text": "Je maakt er een groot verhaal van: 'Dames en heren, de hoofdact van vanmiddag!'", "e": 2, "a": -1 },
+        { "text": "Je grijnst droog: 'De kabel was al maanden het best functionerende teamlid hier.'", "e": -2, "a": 2 },
+        { "text": "Je helpt hem overeind en maakt een grap over je eigen klutzigheid", "e": -1, "a": -2 },
+        { "text": "Je zegt met een stalen gezicht: 'Mooi. Precies de energie die deze vergadering nodig had.'", "e": -2, "a": 1 }]},
+      { "q": "Je bent op een feest waar je bijna niemand kent. Hoe breek je het ijs?", "opts": [
+        { "text": "Je maakt luid een observatie over iets absurds in de ruimte. Iedereen hoort het", "e": 2, "a": 0 },
+        { "text": "Je maakt een persoonlijke, licht kwetsbare opmerking tegen de persoon naast je", "e": -1, "a": -2 },
+        { "text": "Je maakt een scherpe grap over de gastheer of het eten, net op het randje", "e": 1, "a": 2 },
+        { "text": "Je wacht af, observeert, en plaatst dan precies de juiste opmerking op het juiste moment", "e": -2, "a": 0 }]},
+      { "q": "Een presentatie gaat volledig mis. De slides werken niet. Wat zeg je?", "opts": [
+        { "text": "Je improviseert theatraal: 'Welkom bij mijn TED Talk. Zonder de T, de E en de D.'", "e": 2, "a": 0 },
+        { "text": "Je mompelt tegen je buurman: 'Dit is het beste dat deze presentatie kon overkomen.'", "e": -2, "a": 2 },
+        { "text": "Je zegt: 'Dit is precies hoe mijn leven er ook uitziet. Vol goede bedoelingen, nul uitvoering.'", "e": 0, "a": -2 },
+        { "text": "Je neemt de kamer over met energie en maakt er een verhaal van dat iedereen meepakt", "e": 2, "a": -1 }]},
+      { "q": "Je beste vriend vertelt je trots over een nieuw idee dat je niet zo sterk vindt. Wat doe je?", "opts": [
+        { "text": "Je zegt enthousiast wat er wél goed aan is en maakt een grap over je eigen slechte ideeën", "e": 0, "a": -2 },
+        { "text": "Je maakt een droge opmerking: 'Heeft iemand je hiervoor betaald, of is dit gratis slecht?'", "e": -1, "a": 2 },
+        { "text": "Je speelt de advocaat van de duivel op een grote, theatrale manier", "e": 2, "a": 1 },
+        { "text": "Je glimlacht subtiel en stelt een vraag die hem zelf tot de conclusie laat komen", "e": -2, "a": -1 }]},
+      { "q": "Je manager stuurt een e-mail met 47 bullets en de onderwerpregel 'Quick update'. Wat denk je?", "opts": [
+        { "text": "Je reply-all't met: 'Bedankt voor de samenvatting. Heb je ook een samenvatting van de samenvatting?'", "e": 2, "a": 2 },
+        { "text": "Je stuurt een DM naar een collega: 'Ik heb net een roman gelezen. Spoiler: het einde is een actiepunt.'", "e": -1, "a": 1 },
+        { "text": "Je maakt er geen punt van maar vertelt het later als grappig verhaal op de borrel", "e": 0, "a": -1 },
+        { "text": "Je stuurt een lief berichtje naar je manager dat het misschien korter kan", "e": -1, "a": -2 }]},
+      { "q": "Iemand vertelt een grap die totaal niet landt. Pijnlijke stilte. Wat doe je?", "opts": [
+        { "text": "Je redt het door er zelf nog een schep bovenop te doen. Groter, absurder", "e": 2, "a": -1 },
+        { "text": "Je zegt met een stalen gezicht: 'Dat was zo slecht dat het bijna weer goed was. Bijna.'", "e": -1, "a": 2 },
+        { "text": "Je lacht mee, ook al was het niet grappig. Je waardeert de poging", "e": -1, "a": -2 },
+        { "text": "Je laat de stilte bestaan. Geniet er stiekem van. Kijkt rond.", "e": -2, "a": 1 }]},
+      { "q": "Je wordt gevraagd een toast uit te brengen op het afscheid van een collega. Hoe pak je dat aan?", "opts": [
+        { "text": "Groot, warm, met veel publieke complimenten en een paar inside jokes", "e": 2, "a": -1 },
+        { "text": "Kort, droog, met één rake observatie die de hele kamer eerst stil maakt en dan laat lachen", "e": -1, "a": 2 },
+        { "text": "Persoonlijk, eerlijk, met een verhaal over een kwetsbaar moment dat jullie deelden", "e": 0, "a": -2 },
+        { "text": "Je opent met een onverwachte anekdote die niemand ziet aankomen en eindigt met een stille knipoog", "e": -2, "a": 0 }]},
+      { "q": "Een discussie op het werk loopt vast. Iedereen zit in de loopgraven. Wat doe je?", "opts": [
+        { "text": "Je benoemt de absurditeit luid, voor iedereen: 'We gedragen ons als kleuters met een boardroom-budget.'", "e": 2, "a": 1 },
+        { "text": "Je fluistert tegen je buurman iets wat hem aan het lachen maakt. De spanning breekt", "e": -2, "a": 0 },
+        { "text": "Je maakt een grap over jezelf: 'Ik snap het ook niet hoor, maar ik dacht laat ik gewoon ja knikken.'", "e": 0, "a": -2 },
+        { "text": "Je gooit er een onverwacht voorbeeld in dat zo gek is dat het de boel openbreekt", "e": 1, "a": -1 }]},
+      { "q": "Welke comedians spreken jou het meest aan?", "opts": [
+        { "text": "Robin Williams, Jochem Myjer: groot, energiek, onvoorspelbaar", "e": 2, "a": -1 },
+        { "text": "Ricky Gervais, Theo Maassen: scherp, eerlijk, confronterend", "e": 1, "a": 2 },
+        { "text": "Jerry Seinfeld, Herman Finkers: warm, observerend, herkenbaar", "e": -1, "a": -2 },
+        { "text": "Steven Wright, Daniel Arends: droog, deadpan, onderhuidse scherpte", "e": -2, "a": 1 }]},
+      { "q": "Je zit vast in een saaie vergadering. Wat gaat er door je hoofd?", "opts": [
+        { "text": "Je bedenkt hoe je dit straks op de borrel kunt navertellen, met stemmetjes en al", "e": 2, "a": 0 },
+        { "text": "Je bedenkt een vernietigende oneliner die je misschien fluistert naar je buurman", "e": -1, "a": 2 },
+        { "text": "Je bedenkt een manier om het gesprek op een warme manier te laten ontsporen", "e": 0, "a": -1 },
+        { "text": "Je observeert stil het theater om je heen en geniet van de absurditeit", "e": -2, "a": 0 }]},
+      { "q": "Hoe reageer je als iemand je complimenteert?", "opts": [
+        { "text": "Je maakt er een groot ding van. Overdreven bescheiden, theatraal, zodat iedereen lacht", "e": 2, "a": -1 },
+        { "text": "Je kaatst terug met een scherpe grap: 'Eindelijk iemand die het doorheeft.'", "e": 0, "a": 2 },
+        { "text": "Je bedankt oprecht en maakt een grap over je eigen tekortkomingen", "e": -1, "a": -2 },
+        { "text": "Je knikt, glimlacht, en zegt niets. Laat het even bestaan", "e": -2, "a": 0 }]},
+      { "q": "Laatste vraag. Wat is humor voor jou?", "opts": [
+        { "text": "Energie: de vonk die een kamer tot leven brengt", "e": 2, "a": -1 },
+        { "text": "Een wapen: de waarheid zeggen op een manier die aankomt", "e": 0, "a": 2 },
+        { "text": "Verbinding: het moment waarop twee mensen echt contact maken", "e": -1, "a": -2 },
+        { "text": "Observatie: het zien van wat anderen niet zien", "e": -2, "a": 1 }]}
+    ],
+    "hqTypes": {
+      "magnet": { "name": "De Magneet", "sub": "Expressief en affiliatief",
+        "desc": "Jij bent de persoon om wie iedereen verzamelt. Je humor is groot, warm en aanstekelijk. Je vult een kamer met energie zonder dat het ten koste gaat van anderen. Mensen voelen zich beter als jij erbij bent, en ze weten vaak niet precies waarom. Het is je uitstraling, je bereidheid om gek te doen, je weigering om je te serieus te nemen.",
+        "strength": "Je creëert sfeer. Als jij in een vergadering zit, is de toon anders. Lichter. Vrijer. Mensen durven meer.",
+        "risk": "Soms kun je de ruimte domineren. Lang niet iedereen is altijd in de stemming voor grote energie. Leer lezen wanneer subtiliteit krachtiger is.",
+        "tip": "Gebruik je magnetisme bewust in de eerste vijf minuten van een vergadering. Jij zet de toon, en die toon bepaalt alles wat daarna komt." },
+      "standup": { "name": "De Stand-up", "sub": "Expressief en agressief",
+        "desc": "Jij bent de persoon die zegt wat iedereen denkt maar niemand durft te zeggen. Je humor is groot, confronterend, soms ongemakkelijk en bijna altijd raak. Je durft de olifant in de kamer te benoemen, en je doet het met een grijns die mensen net genoeg ontwapent om te luisteren.",
+        "strength": "Je doorbreekt patronen. Waar anderen om de hete brij heen draaien, ga jij recht door zee, met humor als smeermiddel.",
+        "risk": "Je kunt te ver gaan. Wat jij als eerlijkheid ziet kan voor de ander aanvoelen als een aanval. Check je intentie.",
+        "tip": "De beste Stand-ups combineren scherpte met warmte. Maak de grap, en laat daarna zien dat het je om de ander gaat en om meer dan de lach." },
+      "sweetheart": { "name": "De Sweetheart", "sub": "Subtiel en affiliatief",
+        "desc": "Jij bent de stille kracht. Je humor is warm, zacht en verbindend. Je bent zelden de luidste persoon in de kamer en toch vaak de meest gewaardeerde. Je maakt mensen blij zonder dat ze precies kunnen zeggen hoe. Zelfspot is je superkracht: je neemt jezelf licht genoeg om anderen op hun gemak te stellen.",
+        "strength": "Je bouwt vertrouwen. Mensen openen zich bij jou omdat je veilig voelt. Jouw humor kwetst niemand en bereikt iedereen.",
+        "risk": "Je kunt te aardig zijn. Soms is een scherpe opmerking nodig die jij vermijdt. Leer ook het ongemakkelijke te benoemen. Het maakt je completer.",
+        "tip": "Onderschat je eigen impact niet. De Sweetheart wordt vaak over het hoofd gezien ten gunste van de luidere types, maar in een team ben jij het bindmiddel. Zonder jou valt de boel uit elkaar." },
+      "sniper": { "name": "De Sniper", "sub": "Subtiel en agressief",
+        "desc": "Jij bent de meester van de droge, onderhuidse scherpte. Deadpan. De grap die drie seconden later pas landt, en dan des te harder. Je zegt weinig, maar als je iets zegt, raakt het. Je humor is een precisie-instrument: smal en diep.",
+        "strength": "Je timing is dodelijk. Waar anderen tien grappen maken, maak jij er één. En die ene is beter dan de tien bij elkaar.",
+        "risk": "Lang niet iedereen leest je. Subtiele humor kan verloren gaan bij mensen die een expressievere stijl gewend zijn, en droge scherpte kan verkeerd landen bij mensen die je nog niet kennen.",
+        "tip": "Combineer je scherpte met af en toe een warm moment. De Sniper die ook kwetsbaar durft te zijn is onweerstaanbaar, omdat niemand het ziet aankomen." }
+    },
+    "t": {
+      "copied": "Gekopieerd",
+      "copyBtn": "Kopieer",
+      "restart": "Opnieuw doen",
+      "oiTag": "Assessment",
+      "oiIntroTitle": "Hoe goed ben jij, echt?",
+      "oiIntroMeta": "15 scenario's, 5 dimensies, 4 minuten",
+      "oiStart": "Begin de test",
+      "oiLabel": "Jouw Ouwehoer-Index",
+      "oiOf": "van de 100",
+      "oiProfile": "Jouw profiel",
+      "oiStrongest": "Sterkste dimensie",
+      "oiGrowth": "Groeikans",
+      "oiScoreWord": "Score",
+      "oiCtaQ": "Wil je je Ouwehoer-Index verhogen?",
+      "oiCtaA": "Het boek leert je hoe. Hou me op de hoogte",
+      "oiShareBtn": "Deel je score",
+      "oiCardBtn": "Scorekaart",
+      "oiShareNote": "Deel je score en kijk wie er in jouw team durft. Dat is meteen les één.",
+      "oiShareText": "Mijn Ouwehoer-Index is {score}/100: {label}. En die van jou? Doe de test van De kracht van het ouwehoeren.",
+      "cardOiKicker": "MIJN OUWEHOER-INDEX",
+      "hqTag": "Quiz",
+      "hqIntroTitle": "Vier types. Eén ben jij.",
+      "hqIntroMeta": "12 situaties, 3 minuten, geen goede of foute antwoorden. Nou ja, bijna geen.",
+      "hqStart": "Begin de quiz",
+      "hqStrength": "Je kracht",
+      "hqRisk": "Je valkuil",
+      "hqTip": "Voor maandagochtend",
+      "hqCtaQ": "In het boek: hoe elke stijl scherper wordt, ook de jouwe.",
+      "hqCtaA": "Hou me op de hoogte",
+      "hqShareBtn": "Deel je stijl",
+      "hqCardBtn": "Stijlkaart",
+      "hqShareNote": "Stuur dit naar de collega die zichzelf een Stand-up vindt. Kijken of de test het met hem eens is.",
+      "hqShareText": "Mijn humorstijl is {name} ({sub}). Welke ben jij? Doe de quiz van De kracht van het ouwehoeren.",
+      "cardHqKicker": "MIJN HUMORSTIJL",
+      "cardLine1": "Je beste ideeën ontstaan niet in de vergadering.",
+      "cardLine2": "Ze ontstaan op de gang, daarna.",
+      "bingoStamp": "Gehoord",
+      "bingoV12": "Twaalf of meer? Je organisatie wordt gesaboteerd. Door zichzelf.",
+      "bingoV8": "Acht of meer. Dit is geen vergadering meer, dit is een taalkundig noodgeval. Stuur deze kaart naar de voorzitter.",
+      "bingoV4": "Vier of meer. Je zit officieel in een echte Nederlandse vergadering. Sterkte, en blijf turven.",
+      "bingoV1": "Het begint. Hou je kaart bij de hand, de rest komt vanzelf.",
+      "bingoShare12": "Volle kaart bij de Vergaderwoorden-Bingo. Mijn organisatie wordt gesaboteerd. Door zichzelf. Speel mee via De kracht van het ouwehoeren.",
+      "bingoShareN": "Ik heb vandaag {n} van de 12 vergaderclichés live gehoord. Speel de Vergaderwoorden-Bingo van De kracht van het ouwehoeren.",
+      "mailSubject": "Hou me op de hoogte van De kracht van het ouwehoeren",
+      "mailBody": "Hoi Bram,\n\nZet mij op de lijst voor het boek.\n\nMijn e-mailadres: {email}\n\nGroet!"
+    }
+  }
+}
