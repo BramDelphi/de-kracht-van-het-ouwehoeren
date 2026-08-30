@@ -7,11 +7,17 @@
     "metaDesc": "Le ouwehoeren est un métier. Mesure ton Index Ouwehoer, découvre ton style d'humour et joue au Bingo des réunions. Le livre du psychiatre et entrepreneur Bram van der Boom paraît bientôt.",
     "ogTitle": "De kracht van het ouwehoeren | L'art néerlandais de papoter au travail",
     "ogDesc": "Tes meilleures idées ne naissent pas en réunion. Elles naissent dans le couloir, juste après. Mesure ton Index Ouwehoer.",
-    "nav": { "index": "L'Index", "humor": "Style d'humour", "bingo": "Bingo", "book": "Le livre", "cta": "Tenez-moi au courant" },
+    "nav": {
+      "index": "L'Index",
+      "humor": "Style d'humour",
+      "bingo": "Bingo",
+      "book": "Le livre",
+      "cta": "Tenez-moi au courant"
+    },
     "hero": {
       "badge": "Le livre paraît bientôt",
-      "h1": "Tes meilleures idées ne naissent pas en réunion.",
-      "flip": "Elles naissent dans le couloir, juste après.",
+      "h1": "Arrêtez les réunions.",
+      "flip": "Place au ouwehoeren.",
       "sub": "Quelque part en chemin, nous avons tous décidé qu'être sérieux, c'est être professionnel. Pendant ce temps, le vrai travail se fait ailleurs : à la machine à café, dans le couloir, pendant le papotage qui nous donne secrètement mauvaise conscience. Les Néerlandais ont un mot pour ça : ouwehoeren. Le psychiatre et entrepreneur Bram van der Boom démonte le mythe. Ceux qui le maîtrisent construisent de meilleures équipes, de meilleurs deals et une meilleure vie au travail.",
       "cta1": "Mesure ton Index Ouwehoer",
       "cta2": "Joue au Bingo des réunions",
@@ -22,39 +28,86 @@
       "h2": "Le mot le moins sérieux des Pays-Bas se révèle être la compétence la plus <em>sous-estimée.</em>",
       "lede": "Ouwehoeren (néerlandais, intraduisible) : l'art de la conversation libre, joueuse et sans ordre du jour. Le couloir après la réunion est plus productif que la réunion elle-même. Tu le sais. Tout le monde le sait. Et pourtant, nous faisons comme si c'était l'inverse.",
       "cards": [
-        { "t": "La conversation légère n'est pas une pause dans le travail", "p": "C'est le travail. Les deals, les équipes et les entreprises se construisent dans le moment informel. La science le sait depuis longtemps, les organisations l'ignorent systématiquement." },
-        { "t": "Le ouwehoeren est un métier, pas un talent", "p": "Ça s'apprend. Presque tout le monde peut y arriver, et ça commence par la volonté de se prendre un peu moins au sérieux. Ce livre ne te demande jamais de devenir quelqu'un d'autre." },
-        { "t": "Le lien passe avant le contenu", "p": "Un psychiatre devenu entrepreneur a vu la même loi dans le cabinet de thérapie et dans la salle du conseil. Qui la comprend construit une équipe où les gens osent dire ce qu'ils pensent." }
+        {
+          "t": "La conversation légère n'est pas une pause dans le travail",
+          "p": "C'est le travail. Les deals, les équipes et les entreprises se construisent dans le moment informel. La science le sait depuis longtemps, les organisations l'ignorent systématiquement."
+        },
+        {
+          "t": "Le ouwehoeren est un métier, pas un talent",
+          "p": "Ça s'apprend. Presque tout le monde peut y arriver, et ça commence par la volonté de se prendre un peu moins au sérieux. Ce livre ne te demande jamais de devenir quelqu'un d'autre."
+        },
+        {
+          "t": "Le lien passe avant le contenu",
+          "p": "Un psychiatre devenu entrepreneur a vu la même loi dans le cabinet de thérapie et dans la salle du conseil. Qui la comprend construit une équipe où les gens osent dire ce qu'ils pensent."
+        }
       ],
-      "quote": "Rien de tel qu'une lueur d'humour pour t'assurer qu'un être humain bat derrière un visage inconnu.",
-      "cite": "Eva Hoffman"
+      "quote": "La vie est une chose bien trop importante pour qu'on en parle sérieusement.",
+      "cite": "Oscar Wilde"
     },
-    "oi": { "kicker": "Test 1", "h2": "L'<em>Index Ouwehoer</em>", "lede": "Es-tu doué pour le jeu informel ? Ce n'est pas un test de type d'humour. Il mesure la force de ta connexion : oser, lire la salle, rebondir, rester vrai et attirer les gens vers toi." },
-    "hq": { "kicker": "Test 2", "h2": "Quel est ton <em>style d'humour</em> ?", "lede": "L'Aimant, le Stand-up, le Sweetheart ou le Sniper. Douze situations, deux axes, un résultat que tu reconnaîtras dès la première lecture. Tes collègues aussi, d'ailleurs." },
-    "bingo": { "kicker": "Joue avec nous", "h2": "Le <em>Bingo des réunions</em>", "lede": "Tout droit sorti du livre. Ouvre cette carte pendant ta prochaine réunion et coche chaque phrase que tu entends. On t'attend.", "count": "sur 12 entendues", "share": "Partage ta carte", "reset": "Nouvelle réunion", "src": "Extrait du chapitre 1, Le mythe du professionnel" },
+    "oi": {
+      "kicker": "Test 1",
+      "h2": "L'<em>Index Ouwehoer</em>",
+      "lede": "Es-tu doué pour le jeu informel ? Ce n'est pas un test de type d'humour. Il mesure la force de ta connexion : oser, lire la salle, rebondir, rester vrai et attirer les gens vers toi."
+    },
+    "hq": {
+      "kicker": "Test 2",
+      "h2": "Quel est ton <em>style d'humour</em> ?",
+      "lede": "L'Aimant, le Stand-up, le Sweetheart ou le Sniper. Douze situations, deux axes, un résultat que tu reconnaîtras dès la première lecture. Tes collègues aussi, d'ailleurs."
+    },
+    "bingo": {
+      "kicker": "Joue avec nous",
+      "h2": "Le <em>Bingo des réunions</em>",
+      "lede": "Tout droit sorti du livre. Ouvre cette carte pendant ta prochaine réunion et coche chaque phrase que tu entends. On t'attend.",
+      "count": "sur 12 entendues",
+      "share": "Partage ta carte",
+      "reset": "Nouvelle réunion",
+      "src": "Extrait du chapitre 1, Le mythe du professionnel"
+    },
     "sci": {
       "kicker": "Pas une opinion. De la science.",
-      "h2": "Pourquoi papoter à la machine à café, c'est <em>simplement du travail</em>",
+      "h2": "Pourquoi papoter à la machine à café <em>fait partie du vrai travail</em>",
       "lede": "Chaque affirmation du livre repose sur la recherche et sur une histoire vraie. Trois aperçus.",
       "cards": [
-        { "tag": "Robin Dunbar, Oxford", "t": "Le papotage est le successeur de l'épouillage", "p": "Les autres primates créent du lien par le corps : épouiller, toiletter, gratter. Nous avons trouvé une alternative plus rapide : le langage, et surtout sa forme la plus légère. Rire ensemble déclenche exactement les mêmes endorphines. Une bonne conversation à la machine à café fait neurologiquement le même effet qu'un bras autour de l'épaule." },
-        { "tag": "Google, Projet Aristote", "t": "La meilleure équipe est l'équipe la plus sûre", "p": "Google a cherché pendant des années la formule de l'équipe parfaite. Le verdict : la sécurité psychologique, le sentiment de pouvoir dire ce qu'on pense sans être puni. Et le chemin le plus court y menant passe par le rire partagé." },
-        { "tag": "La réalité post-covid", "t": "Le travail hybride a détruit le moment informel", "p": "Le télétravail a éliminé exactement ce dont parle ce livre : la rencontre spontanée, non planifiée. Les organisations luttent visiblement avec le lien, la fidélisation et la culture. Ce livre donne la réponse que les autres livres de management oublient." }
+        {
+          "tag": "Robin Dunbar, Oxford",
+          "t": "Le papotage est le successeur de l'épouillage",
+          "p": "Les autres primates créent du lien par le corps : épouiller, toiletter, gratter. Nous avons trouvé une alternative plus rapide : le langage, et surtout sa forme la plus légère. Rire ensemble déclenche exactement les mêmes endorphines. Une bonne conversation à la machine à café fait neurologiquement le même effet qu'un bras autour de l'épaule."
+        },
+        {
+          "tag": "Google, Projet Aristote",
+          "t": "La meilleure équipe est celle où l'on peut papoter en toute sécurité",
+          "p": "Google a cherché pendant des années la formule de l'équipe parfaite. Le verdict : la sécurité psychologique, le sentiment de pouvoir dire ce qu'on pense sans être puni. Et le chemin le plus court y menant passe par le rire partagé."
+        },
+        {
+          "tag": "La réalité post-covid",
+          "t": "Le travail hybride a détruit le moment informel",
+          "p": "Le télétravail a éliminé exactement ce dont parle ce livre : la rencontre spontanée, non planifiée. Les organisations luttent visiblement avec le lien, la fidélisation et la culture. Ce livre donne la réponse que les autres livres de management oublient."
+        }
       ]
     },
     "book": {
       "kicker": "Le livre",
       "h2": "Papoter est un métier. <em>Il est temps de le prendre au sérieux.</em>",
-      "lede": "Ce livre ne t'apprend aucun truc et ne te demande pas de devenir quelqu'un d'autre. Il te montre comment enlever le masque, comment fonctionne l'humour (même si tu penses ne pas être drôle), et comment construire une équipe où les gens osent dire ce qu'ils pensent. Parce qu'ils ont d'abord ri ensemble.",
-      "coverTop": "Du management, mais en amusant",
-      "coverSub": "Pourquoi le couloir rapporte plus que la salle de réunion",
+      "lede": "Ce livre ne t'apprend aucun truc et ne te demande pas de devenir quelqu'un d'autre. Il te montre comment enlever le masque, comment fonctionnent l'humour et l'audace (même si tu penses ne pas être drôle), et comment construire une équipe où les gens osent dire ce qu'ils pensent. Parce qu'ils ont d'abord papoté ensemble.",
+      "coverTop": "Ce qu'on ne t'apprend pas en MBA.",
+      "coverSub": "L'art néerlandais de la conversation inutile (et indispensable)",
       "moves": [
-        { "t": "Pourquoi ça marche", "p": "Le mythe du professionnel, papoter comme métier, et ce qu'un thérapeute et une croquette t'apprennent sur le lien." },
-        { "t": "Comment le faire toi-même", "p": "L'authenticité décalée, l'effet duo, l'humour comme super-pouvoir, et la séduction pour niveau avancé." },
-        { "t": "Vers ton équipe et ton organisation", "p": "La machine à café comme salle du conseil, et comment bâtir une culture où papoter compte simplement comme du travail." }
+        {
+          "t": "Pourquoi ça marche",
+          "p": "Le mythe du professionnel, papoter comme métier, et ce que m'ont appris un thérapeute et une croquette."
+        },
+        {
+          "t": "Comment le faire toi-même",
+          "p": "L'authenticité, l'effet duo du papotage, l'humour comme don et comme compétence, et la séduction pour niveau avancé : séduis tout le monde."
+        },
+        {
+          "t": "Ton équipe et ton organisation",
+          "p": "L'humour au travail, et comment bâtir une culture où papoter est estimé à sa juste valeur."
+        }
       ],
       "authorHead": "À propos de l'auteur",
-      "authorBio": "Bram van der Boom est psychiatre et entrepreneur. Il est le fondateur de Psyflix, la plus grande plateforme vidéo pour les professionnels de la santé mentale aux Pays-Bas. Comme psychiatre, il a soigné des centaines de personnes ; comme entrepreneur, il a bâti une entreprise à partir de rien. Dans les deux mondes, il a découvert la même chose : le vrai travail se fait dans le moment informel. C'est son premier livre."
+      "authorBio": "Bram van der Boom est psychiatre et entrepreneur. Il est cofondateur de Psyflix, la plus grande plateforme vidéo pour les professionnels de la santé mentale aux Pays-Bas. Comme psychiatre, il a soigné des milliers de personnes ; comme entrepreneur, il a bâti une entreprise à partir de rien. Dans les deux mondes, il a vu les mêmes principes à l'œuvre. Comme entrepreneur, il a découvert le pouvoir du ouwehoeren.",
+      "coverTitle": "<em>Ouwehoeren</em>"
     },
     "signup": {
       "kicker": "Reste informé",
@@ -65,183 +118,733 @@
       "ok": "Merci. Ton application e-mail ouvre maintenant un petit message à l'auteur. Clique sur envoyer et tu es sur la liste.",
       "fine": "Pas de spam. Pas de \"on se cale un point\". Juste un message quand le livre est là."
     },
-    "footer": { "byline": "Un livre de Bram van der Boom, psychiatre et entrepreneur", "quote": "Prends le travail au sérieux. Toi-même, un peu moins." }
+    "footer": {
+      "byline": "Un livre de Bram van der Boom, psychiatre et entrepreneur",
+      "quote": "Prends le travail au sérieux. Toi-même, un peu moins."
+    }
   },
   "data": {
-    "jargon": ["Il faut aligner tout le monde", "On va parquer ça", "Au final", "Il faut créer de la synergie", "On se cale un point la semaine prochaine", "Je prends note", "Il faut être force de proposition", "On monte un groupe de travail", "J'entends ce que tu dis", "Quick win", "On revient vers toi", "Il faut prendre de la hauteur"],
+    "jargon": [
+      "Il faut aligner tout le monde",
+      "On va parquer ça",
+      "Au final",
+      "Il faut créer de la synergie",
+      "On se cale un point la semaine prochaine",
+      "Je prends note",
+      "Il faut être force de proposition",
+      "On monte un groupe de travail",
+      "J'entends ce que tu dis",
+      "Quick win",
+      "On revient vers toi",
+      "Il faut prendre de la hauteur"
+    ],
     "dims": {
-      "opener": { "name": "Force d'ouverture", "desc": "Ta capacité à briser les schémas et à ouvrir les conversations de façon inattendue." },
-      "leeskracht": { "name": "Lecture de la salle", "desc": "Ta capacité à lire la pièce : sentir l'ambiance, voir les limites, saisir le bon moment." },
-      "herstel": { "name": "Rebond", "desc": "Ce que tu fais quand ça rate. Quand la blague tombe à plat, quand ça devient gênant." },
-      "authentiek": { "name": "Authenticité", "desc": "À quel point tu restes toi-même dans les situations professionnelles et sociales." },
-      "magnetisme": { "name": "Magnétisme", "desc": "La mesure dans laquelle les gens sont attirés vers toi. Ou si c'est toujours toi qui dois aller vers eux." }
+      "opener": {
+        "name": "Force d'ouverture",
+        "desc": "Ta capacité à briser les schémas et à ouvrir les conversations de façon inattendue."
+      },
+      "leeskracht": {
+        "name": "Lecture de la salle",
+        "desc": "Ta capacité à lire la pièce : sentir l'ambiance, voir les limites, saisir le bon moment."
+      },
+      "herstel": {
+        "name": "Rebond",
+        "desc": "Ce que tu fais quand ça rate. Quand la blague tombe à plat, quand ça devient gênant."
+      },
+      "authentiek": {
+        "name": "Authenticité",
+        "desc": "À quel point tu restes toi-même dans les situations professionnelles et sociales."
+      },
+      "magnetisme": {
+        "name": "Magnétisme",
+        "desc": "La mesure dans laquelle les gens sont attirés vers toi. Ou si c'est toujours toi qui dois aller vers eux."
+      }
     },
     "oiLevels": [
-      { "label": "Maître ouwehoerder", "desc": "Tu es une force de la nature. Les gens se sentent mieux quand tu es là, et tu as le pouvoir de transformer n'importe quelle pièce. Ton défi : utiliser consciemment ce que tu sais déjà faire." },
-      { "label": "Ouwehoerder avancé", "desc": "Tu l'as en toi. La base est solide : tu oses, tu lis, tu rebondis. Il reste quelques dimensions où grandir, et une fois que tu t'y attaques, plus rien ne t'arrête." },
-      { "label": "Ouwehoerder en formation", "desc": "Tu as du potentiel, mais tu te retiens encore souvent. Peut-être par insécurité, peut-être par habitude. Ce livre a été écrit pour toi : de petits pas qui font une grande différence." },
-      { "label": "Force tranquille", "desc": "Tu es plus un auditeur qu'un parleur, et ce n'est pas un défaut. Mais il y a plus en toi que ce que tu montres. Commence par l'authenticité, le reste suivra." }
+      {
+        "label": "Maître ouwehoerder",
+        "desc": "Tu es une force de la nature. Les gens se sentent mieux quand tu es là, et tu as le pouvoir de transformer n'importe quelle pièce. Ton défi : utiliser consciemment ce que tu sais déjà faire."
+      },
+      {
+        "label": "Ouwehoerder avancé",
+        "desc": "Tu l'as en toi. La base est solide : tu oses, tu lis, tu rebondis. Il reste quelques dimensions où grandir, et une fois que tu t'y attaques, plus rien ne t'arrête."
+      },
+      {
+        "label": "Ouwehoerder en formation",
+        "desc": "Tu as du potentiel, mais tu te retiens encore souvent. Peut-être par insécurité, peut-être par habitude. Ce livre a été écrit pour toi : de petits pas qui font une grande différence."
+      },
+      {
+        "label": "Force tranquille",
+        "desc": "Tu es plus un auditeur qu'un parleur, et ce n'est pas un défaut. Mais il y a plus en toi que ce que tu montres. Commence par l'authenticité, le reste suivra."
+      }
     ],
     "oiQuestions": [
-      { "dim": "opener", "q": "Tu arrives à un congrès où tu ne connais personne. Tu te trouves près d'un groupe d'inconnus. Que fais-tu ?", "opts": [
-        { "text": "Tu attends que quelqu'un t'adresse la parole", "s": 0 },
-        { "text": "Tu te présentes poliment et demandes ce qu'ils font", "s": 1 },
-        { "text": "Tu fais une remarque sur quelque chose qui attire ton attention dans la salle", "s": 2 },
-        { "text": "Tu lances une observation ou une question absurde qui brise la glace immédiatement", "s": 3 }]},
-      { "dim": "opener", "q": "Tu es dans une réunion plus ennuyeuse que prévu depuis dix minutes. Tout le monde fixe son ordinateur. Que fais-tu ?", "opts": [
-        { "text": "Tu attends que ça passe. Ce n'est pas ta responsabilité", "s": 0 },
-        { "text": "Tu poses une question de fond pour relancer la conversation", "s": 1 },
-        { "text": "Tu fais une remarque légère sur l'ambiance de la salle", "s": 2 },
-        { "text": "Tu brises le schéma avec quelque chose d'inattendu : une blague, une question absurde, une anecdote personnelle", "s": 3 }]},
-      { "dim": "opener", "q": "On te demande : « C'était bien, ton week-end ? » Que réponds-tu ?", "opts": [
-        { "text": "« Bien, et toi ? », et tu en restes là", "s": 0 },
-        { "text": "Tu donnes une réponse honnête et courte sur ce que tu as fait", "s": 1 },
-        { "text": "Tu choisis le détail le plus étonnant et tu le transformes en histoire", "s": 2 },
-        { "text": "Tu réponds quelque chose de si inattendu que l'autre s'arrête une seconde", "s": 3 }]},
-      { "dim": "leeskracht", "q": "Tu fais une blague et tu vois qu'une personne du groupe ne rit pas. Qu'enregistres-tu ?", "opts": [
-        { "text": "Rien. Tu ne fais pas attention à qui rit ou pas", "s": 0 },
-        { "text": "Tu le remarques mais tu te dis : cette personne n'a pas d'humour", "s": 1 },
-        { "text": "Tu le remarques et tu te demandes si la blague est allée trop loin pour cette personne", "s": 2 },
-        { "text": "Tu le remarques immédiatement, tu lis la raison (gêne, timing, personnel) et tu ajustes ton ton", "s": 3 }]},
-      { "dim": "leeskracht", "q": "Tu es à un cocktail. Un petit groupe mène visiblement une conversation sérieuse. Tu veux les rejoindre. Que fais-tu ?", "opts": [
-        { "text": "Tu y vas et tu te mêles à la conversation", "s": 0 },
-        { "text": "Tu attends que la conversation s'allège et tu entres à ce moment-là", "s": 1 },
-        { "text": "Tu lis le langage corporel (cercle fermé ou ouvert ?) et tu choisis ton moment", "s": 2 },
-        { "text": "Tu saisis un fragment, tu attends un moment naturel et tu enchaînes avec quelque chose qui colle au ton", "s": 3 }]},
-      { "dim": "leeskracht", "q": "Un collègue parle avec enthousiasme d'un projet, mais dans une phrase secondaire tu entends quelque chose qui ressemble à un doute. Que fais-tu ?", "opts": [
-        { "text": "Tu écoutes poliment et tu continues ta journée", "s": 0 },
-        { "text": "Tu poses des questions sur le projet en général", "s": 1 },
-        { "text": "Tu le notes mentalement et tu le ressors plus tard", "s": 2 },
-        { "text": "Tu rebondis immédiatement : « Attends, ce dernier truc sonnait comme si tu n'étais pas tout à fait sûr »", "s": 3 }]},
-      { "dim": "herstel", "q": "Tu fais une blague qui tombe complètement à plat. Silence gênant. Que fais-tu ?", "opts": [
-        { "text": "Tu te sens mal et tu te tais pour le reste de la conversation", "s": 0 },
-        { "text": "Tu fais comme si de rien n'était et tu passes vite à autre chose", "s": 1 },
-        { "text": "Tu le nommes : « Bon, clairement pas ma meilleure », et tu continues", "s": 2 },
-        { "text": "Tu en fais une deuxième blague : « Il me faut un moment pour digérer ça moi-même », et le silence devient quand même un rire", "s": 3 }]},
-      { "dim": "herstel", "q": "Tu dis quelque chose de personnel à un nouveau collègue et tu vois que c'était trop tôt. L'autre se replie. Que fais-tu ?", "opts": [
-        { "text": "Tu te sens coupable et tu évites cette personne pendant un moment", "s": 0 },
-        { "text": "Tu fais comme si de rien n'était et tu restes en terrain sûr", "s": 1 },
-        { "text": "Tu le reconnais subtilement : « Pardon, j'étais peut-être un peu trop direct », et tu laisses de l'espace", "s": 2 },
-        { "text": "Tu allèges avec une blague sur toi-même et tu laisses l'autre choisir de continuer ou non", "s": 3 }]},
-      { "dim": "herstel", "q": "On te corrige en groupe sur quelque chose que tu viens de dire. C'est gênant. Comment réagis-tu ?", "opts": [
-        { "text": "Tu deviens défensif ou silencieux. Ça te touche plus que tu ne le montres", "s": 0 },
-        { "text": "Tu acceptes la correction poliment et tu continues", "s": 1 },
-        { "text": "Tu remercies la personne et tu fais une remarque légère sur ta propre erreur", "s": 2 },
-        { "text": "Tu ris de toi-même, tu exagères ton erreur de façon théâtrale, et la tension disparaît", "s": 3 }]},
-      { "dim": "authentiek", "q": "Tu es en réunion avec la direction. À quel point te comportes-tu différemment qu'avec tes collègues directs ?", "opts": [
-        { "text": "Complètement différemment. Tu pèses chaque mot et tu es plus formel", "s": 0 },
-        { "text": "Assez différemment. Tu te retiens et tu joues la sécurité", "s": 1 },
-        { "text": "Légèrement ajusté. Tu lis la situation mais tu restes reconnaissable", "s": 2 },
-        { "text": "À peine. Tu es la même personne, peu importe qui est à la table", "s": 3 }]},
-      { "dim": "authentiek", "q": "Quelqu'un te demande ton avis sur une idée que tu ne trouves pas très forte. Son auteur est assis juste là. Que fais-tu ?", "opts": [
-        { "text": "Tu dis que tu trouves l'idée bonne. Tu ne veux blesser personne", "s": 0 },
-        { "text": "Tu cites quelques points positifs et tu gardes ta critique pour toi", "s": 1 },
-        { "text": "Tu donnes ton avis honnête mais tu l'emballes avec soin", "s": 2 },
-        { "text": "Tu dis ce que tu penses : direct, honnête, avec respect mais sans enrobage", "s": 3 }]},
-      { "dim": "authentiek", "q": "Après une longue journée de travail, quelqu'un demande : « Ça va ? » En vrai, pas trop. Que dis-tu ?", "opts": [
-        { "text": "« Oui oui, super ! » Tu ne laisses rien paraître", "s": 0 },
-        { "text": "« Un peu fatigué, mais ça va. » Tu donnes un indice mais tu gardes tes distances", "s": 1 },
-        { "text": "Tu es honnête : « Non, pas vraiment. Journée difficile »", "s": 2 },
-        { "text": "Tu es honnête et léger : « J'ai connu mieux, mais je suis encore en vie. Comptons nos bénédictions »", "s": 3 }]},
-      { "dim": "magnetisme", "q": "À un événement de networking, une heure après le début : où es-tu ?", "opts": [
-        { "text": "Seul ou près de la sortie. En vrai, tu veux partir", "s": 0 },
-        { "text": "En conversation avec une personne que tu connaissais déjà", "s": 1 },
-        { "text": "En conversation avec deux ou trois nouvelles personnes que tu as abordées", "s": 2 },
-        { "text": "Au milieu d'un groupe qui s'est formé autour de toi. Tu ne sais pas exactement comment", "s": 3 }]},
-      { "dim": "magnetisme", "q": "Tu organises un pot informel pour les collègues. Combien de personnes viennent ?", "opts": [
-        { "text": "Peu. Tu n'organises pas ce genre de choses facilement", "s": 0 },
-        { "text": "Quelques collègues habituels avec qui tu traînes toujours", "s": 1 },
-        { "text": "Un bon groupe. Tu connais assez de gens que ça amuse", "s": 2 },
-        { "text": "Plus que prévu. Même des gens que tu n'avais pas invités débarquent", "s": 3 }]},
-      { "dim": "magnetisme", "q": "Tu commences un nouveau travail. Après deux semaines : combien de personnes connaissent ton prénom ?", "opts": [
-        { "text": "Seulement ton équipe directe", "s": 0 },
-        { "text": "Ton équipe plus quelques personnes d'autres services", "s": 1 },
-        { "text": "Étonnamment beaucoup. Tu as circulé et cherché le contact", "s": 2 },
-        { "text": "Presque tout le monde, et certains ont déjà une anecdote sur toi", "s": 3 }]}
+      {
+        "dim": "opener",
+        "q": "Tu arrives à un congrès où tu ne connais personne. Tu te trouves près d'un groupe d'inconnus. Que fais-tu ?",
+        "opts": [
+          {
+            "text": "Tu attends que quelqu'un t'adresse la parole",
+            "s": 0
+          },
+          {
+            "text": "Tu te présentes poliment et demandes ce qu'ils font",
+            "s": 1
+          },
+          {
+            "text": "Tu fais une remarque sur quelque chose qui attire ton attention dans la salle",
+            "s": 2
+          },
+          {
+            "text": "Tu lances une observation ou une question absurde qui brise la glace immédiatement",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "opener",
+        "q": "Tu es dans une réunion plus ennuyeuse que prévu depuis dix minutes. Tout le monde fixe son ordinateur. Que fais-tu ?",
+        "opts": [
+          {
+            "text": "Tu attends que ça passe. Ce n'est pas ta responsabilité",
+            "s": 0
+          },
+          {
+            "text": "Tu poses une question de fond pour relancer la conversation",
+            "s": 1
+          },
+          {
+            "text": "Tu fais une remarque légère sur l'ambiance de la salle",
+            "s": 2
+          },
+          {
+            "text": "Tu brises le schéma avec quelque chose d'inattendu : une blague, une question absurde, une anecdote personnelle",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "opener",
+        "q": "On te demande : « C'était bien, ton week-end ? » Que réponds-tu ?",
+        "opts": [
+          {
+            "text": "« Bien, et toi ? », et tu en restes là",
+            "s": 0
+          },
+          {
+            "text": "Tu donnes une réponse honnête et courte sur ce que tu as fait",
+            "s": 1
+          },
+          {
+            "text": "Tu choisis le détail le plus étonnant et tu le transformes en histoire",
+            "s": 2
+          },
+          {
+            "text": "Tu réponds quelque chose de si inattendu que l'autre s'arrête une seconde",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "leeskracht",
+        "q": "Tu fais une blague et tu vois qu'une personne du groupe ne rit pas. Qu'enregistres-tu ?",
+        "opts": [
+          {
+            "text": "Rien. Tu ne fais pas attention à qui rit ou pas",
+            "s": 0
+          },
+          {
+            "text": "Tu le remarques mais tu te dis : cette personne n'a pas d'humour",
+            "s": 1
+          },
+          {
+            "text": "Tu le remarques et tu te demandes si la blague est allée trop loin pour cette personne",
+            "s": 2
+          },
+          {
+            "text": "Tu le remarques immédiatement, tu lis la raison (gêne, timing, personnel) et tu ajustes ton ton",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "leeskracht",
+        "q": "Tu es à un cocktail. Un petit groupe mène visiblement une conversation sérieuse. Tu veux les rejoindre. Que fais-tu ?",
+        "opts": [
+          {
+            "text": "Tu y vas et tu te mêles à la conversation",
+            "s": 0
+          },
+          {
+            "text": "Tu attends que la conversation s'allège et tu entres à ce moment-là",
+            "s": 1
+          },
+          {
+            "text": "Tu lis le langage corporel (cercle fermé ou ouvert ?) et tu choisis ton moment",
+            "s": 2
+          },
+          {
+            "text": "Tu saisis un fragment, tu attends un moment naturel et tu enchaînes avec quelque chose qui colle au ton",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "leeskracht",
+        "q": "Un collègue parle avec enthousiasme d'un projet, mais dans une phrase secondaire tu entends quelque chose qui ressemble à un doute. Que fais-tu ?",
+        "opts": [
+          {
+            "text": "Tu écoutes poliment et tu continues ta journée",
+            "s": 0
+          },
+          {
+            "text": "Tu poses des questions sur le projet en général",
+            "s": 1
+          },
+          {
+            "text": "Tu le notes mentalement et tu le ressors plus tard",
+            "s": 2
+          },
+          {
+            "text": "Tu rebondis immédiatement : « Attends, ce dernier truc sonnait comme si tu n'étais pas tout à fait sûr »",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "herstel",
+        "q": "Tu fais une blague qui tombe complètement à plat. Silence gênant. Que fais-tu ?",
+        "opts": [
+          {
+            "text": "Tu te sens mal et tu te tais pour le reste de la conversation",
+            "s": 0
+          },
+          {
+            "text": "Tu fais comme si de rien n'était et tu passes vite à autre chose",
+            "s": 1
+          },
+          {
+            "text": "Tu le nommes : « Bon, clairement pas ma meilleure », et tu continues",
+            "s": 2
+          },
+          {
+            "text": "Tu en fais une deuxième blague : « Il me faut un moment pour digérer ça moi-même », et le silence devient quand même un rire",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "herstel",
+        "q": "Tu dis quelque chose de personnel à un nouveau collègue et tu vois que c'était trop tôt. L'autre se replie. Que fais-tu ?",
+        "opts": [
+          {
+            "text": "Tu te sens coupable et tu évites cette personne pendant un moment",
+            "s": 0
+          },
+          {
+            "text": "Tu fais comme si de rien n'était et tu restes en terrain sûr",
+            "s": 1
+          },
+          {
+            "text": "Tu le reconnais subtilement : « Pardon, j'étais peut-être un peu trop direct », et tu laisses de l'espace",
+            "s": 2
+          },
+          {
+            "text": "Tu allèges avec une blague sur toi-même et tu laisses l'autre choisir de continuer ou non",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "herstel",
+        "q": "On te corrige en groupe sur quelque chose que tu viens de dire. C'est gênant. Comment réagis-tu ?",
+        "opts": [
+          {
+            "text": "Tu deviens défensif ou silencieux. Ça te touche plus que tu ne le montres",
+            "s": 0
+          },
+          {
+            "text": "Tu acceptes la correction poliment et tu continues",
+            "s": 1
+          },
+          {
+            "text": "Tu remercies la personne et tu fais une remarque légère sur ta propre erreur",
+            "s": 2
+          },
+          {
+            "text": "Tu ris de toi-même, tu exagères ton erreur de façon théâtrale, et la tension disparaît",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "authentiek",
+        "q": "Tu es en réunion avec la direction. À quel point te comportes-tu différemment qu'avec tes collègues directs ?",
+        "opts": [
+          {
+            "text": "Complètement différemment. Tu pèses chaque mot et tu es plus formel",
+            "s": 0
+          },
+          {
+            "text": "Assez différemment. Tu te retiens et tu joues la sécurité",
+            "s": 1
+          },
+          {
+            "text": "Légèrement ajusté. Tu lis la situation mais tu restes reconnaissable",
+            "s": 2
+          },
+          {
+            "text": "À peine. Tu es la même personne, peu importe qui est à la table",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "authentiek",
+        "q": "Quelqu'un te demande ton avis sur une idée que tu ne trouves pas très forte. Son auteur est assis juste là. Que fais-tu ?",
+        "opts": [
+          {
+            "text": "Tu dis que tu trouves l'idée bonne. Tu ne veux blesser personne",
+            "s": 0
+          },
+          {
+            "text": "Tu cites quelques points positifs et tu gardes ta critique pour toi",
+            "s": 1
+          },
+          {
+            "text": "Tu donnes ton avis honnête mais tu l'emballes avec soin",
+            "s": 2
+          },
+          {
+            "text": "Tu dis ce que tu penses : direct, honnête, avec respect mais sans enrobage",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "authentiek",
+        "q": "Après une longue journée de travail, quelqu'un demande : « Ça va ? » En vrai, pas trop. Que dis-tu ?",
+        "opts": [
+          {
+            "text": "« Oui oui, super ! » Tu ne laisses rien paraître",
+            "s": 0
+          },
+          {
+            "text": "« Un peu fatigué, mais ça va. » Tu donnes un indice mais tu gardes tes distances",
+            "s": 1
+          },
+          {
+            "text": "Tu es honnête : « Non, pas vraiment. Journée difficile »",
+            "s": 2
+          },
+          {
+            "text": "Tu es honnête et léger : « J'ai connu mieux, mais je suis encore en vie. Comptons nos bénédictions »",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "magnetisme",
+        "q": "À un événement de networking, une heure après le début : où es-tu ?",
+        "opts": [
+          {
+            "text": "Seul ou près de la sortie. En vrai, tu veux partir",
+            "s": 0
+          },
+          {
+            "text": "En conversation avec une personne que tu connaissais déjà",
+            "s": 1
+          },
+          {
+            "text": "En conversation avec deux ou trois nouvelles personnes que tu as abordées",
+            "s": 2
+          },
+          {
+            "text": "Au milieu d'un groupe qui s'est formé autour de toi. Tu ne sais pas exactement comment",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "magnetisme",
+        "q": "Tu organises un pot informel pour les collègues. Combien de personnes viennent ?",
+        "opts": [
+          {
+            "text": "Peu. Tu n'organises pas ce genre de choses facilement",
+            "s": 0
+          },
+          {
+            "text": "Quelques collègues habituels avec qui tu traînes toujours",
+            "s": 1
+          },
+          {
+            "text": "Un bon groupe. Tu connais assez de gens que ça amuse",
+            "s": 2
+          },
+          {
+            "text": "Plus que prévu. Même des gens que tu n'avais pas invités débarquent",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "magnetisme",
+        "q": "Tu commences un nouveau travail. Après deux semaines : combien de personnes connaissent ton prénom ?",
+        "opts": [
+          {
+            "text": "Seulement ton équipe directe",
+            "s": 0
+          },
+          {
+            "text": "Ton équipe plus quelques personnes d'autres services",
+            "s": 1
+          },
+          {
+            "text": "Étonnamment beaucoup. Tu as circulé et cherché le contact",
+            "s": 2
+          },
+          {
+            "text": "Presque tout le monde, et certains ont déjà une anecdote sur toi",
+            "s": 3
+          }
+        ]
+      }
     ],
     "hqQuestions": [
-      { "q": "Ton collègue trébuche sur un câble dans la salle de réunion. Que fais-tu ?", "opts": [
-        { "text": "Tu en fais tout un spectacle : « Mesdames et messieurs, le grand numéro de l'après-midi ! »", "e": 2, "a": -1 },
-        { "text": "Tu souris sèchement : « Ce câble était depuis des mois le membre le plus performant de l'équipe. »", "e": -2, "a": 2 },
-        { "text": "Tu l'aides à se relever et tu fais une blague sur ta propre maladresse", "e": -1, "a": -2 },
-        { "text": "Tu dis avec un visage impassible : « Parfait. Exactement l'énergie dont cette réunion avait besoin. »", "e": -2, "a": 1 }]},
-      { "q": "Tu es à une fête où tu ne connais presque personne. Comment brises-tu la glace ?", "opts": [
-        { "text": "Tu fais à voix haute une observation sur quelque chose d'absurde dans la pièce. Tout le monde l'entend", "e": 2, "a": 0 },
-        { "text": "Tu fais une remarque personnelle, légèrement vulnérable, à la personne à côté de toi", "e": -1, "a": -2 },
-        { "text": "Tu fais une blague piquante sur l'hôte ou la nourriture, juste à la limite", "e": 1, "a": 2 },
-        { "text": "Tu attends, tu observes, puis tu places exactement la bonne remarque au bon moment", "e": -2, "a": 0 }]},
-      { "q": "Une présentation part complètement en vrille. Les slides ne marchent pas. Que dis-tu ?", "opts": [
-        { "text": "Tu improvises théâtralement : « Bienvenue à mon TED Talk. Sans le T, le E et le D. »", "e": 2, "a": 0 },
-        { "text": "Tu murmures à ton voisin : « C'est la meilleure chose qui pouvait arriver à cette présentation. »", "e": -2, "a": 2 },
-        { "text": "Tu dis : « C'est exactement à ça que ressemble ma vie. Pleine de bonnes intentions, zéro exécution. »", "e": 0, "a": -2 },
-        { "text": "Tu prends la salle avec ton énergie et tu en fais une histoire qui embarque tout le monde", "e": 2, "a": -1 }]},
-      { "q": "Ton meilleur ami te parle fièrement d'une nouvelle idée que tu ne trouves pas très forte. Que fais-tu ?", "opts": [
-        { "text": "Tu soulignes avec enthousiasme ce qui EST bien et tu blagues sur tes propres mauvaises idées", "e": 0, "a": -2 },
-        { "text": "Tu fais une remarque sèche : « Quelqu'un t'a payé pour ça, ou c'est mauvais gratuitement ? »", "e": -1, "a": 2 },
-        { "text": "Tu joues l'avocat du diable de façon grande et théâtrale", "e": 2, "a": 1 },
-        { "text": "Tu souris subtilement et tu poses une question qui l'amène lui-même à la conclusion", "e": -2, "a": -1 }]},
-      { "q": "Ton manager envoie un e-mail avec 47 puces et l'objet « Petit point rapide ». Que penses-tu ?", "opts": [
-        { "text": "Tu réponds à tous : « Merci pour le résumé. Il existe aussi un résumé du résumé ? »", "e": 2, "a": 2 },
-        { "text": "Tu écris à un collègue : « Je viens de lire un roman. Spoiler : la fin est un plan d'action. »", "e": -1, "a": 1 },
-        { "text": "Tu laisses passer mais tu le raconteras plus tard comme une histoire drôle au pot", "e": 0, "a": -1 },
-        { "text": "Tu envoies un gentil message à ton manager disant que ça pourrait être plus court", "e": -1, "a": -2 }]},
-      { "q": "Quelqu'un raconte une blague qui tombe complètement à plat. Silence gênant. Que fais-tu ?", "opts": [
-        { "text": "Tu la sauves en en rajoutant une couche toi-même. Plus grand, plus absurde", "e": 2, "a": -1 },
-        { "text": "Tu dis avec un visage impassible : « C'était si mauvais que c'en était presque redevenu bon. Presque. »", "e": -1, "a": 2 },
-        { "text": "Tu ris avec, même si ce n'était pas drôle. Tu apprécies la tentative", "e": -1, "a": -2 },
-        { "text": "Tu laisses le silence exister. Tu en profites secrètement. Tu regardes autour de toi.", "e": -2, "a": 1 }]},
-      { "q": "On te demande de porter un toast au départ d'un collègue. Comment t'y prends-tu ?", "opts": [
-        { "text": "Grand, chaleureux, avec plein de compliments publics et quelques private jokes", "e": 2, "a": -1 },
-        { "text": "Court, sec, avec une observation si juste que la salle se tait d'abord, puis éclate de rire", "e": -1, "a": 2 },
-        { "text": "Personnel, honnête, avec une histoire sur un moment vulnérable que vous avez partagé", "e": 0, "a": -2 },
-        { "text": "Tu ouvres avec une anecdote inattendue que personne ne voit venir et tu termines par un clin d'œil discret", "e": -2, "a": 0 }]},
-      { "q": "Une discussion au travail est bloquée. Tout le monde est dans les tranchées. Que fais-tu ?", "opts": [
-        { "text": "Tu nommes l'absurdité à voix haute, pour tout le monde : « On se comporte comme des gamins avec un budget de conseil d'administration. »", "e": 2, "a": 1 },
-        { "text": "Tu chuchotes à ton voisin quelque chose qui le fait rire. La tension se brise", "e": -2, "a": 0 },
-        { "text": "Tu fais une blague sur toi-même : « Moi non plus je ne comprends pas, je me suis dit que j'allais juste hocher la tête. »", "e": 0, "a": -2 },
-        { "text": "Tu lances un exemple tellement fou qu'il fait tout éclater", "e": 1, "a": -1 }]},
-      { "q": "Quels humoristes te parlent le plus ?", "opts": [
-        { "text": "Robin Williams, Jamel Debbouze : grands, énergiques, imprévisibles", "e": 2, "a": -1 },
-        { "text": "Ricky Gervais, Blanche Gardin : tranchants, honnêtes, provocants", "e": 1, "a": 2 },
-        { "text": "Jerry Seinfeld, Alex Vizorek : chaleureux, observateurs, proches", "e": -1, "a": -2 },
-        { "text": "Steven Wright, Fabrice Luchini en mode pince-sans-rire : secs, impassibles, d'une précision sournoise", "e": -2, "a": 1 }]},
-      { "q": "Tu es coincé dans une réunion ennuyeuse. Qu'est-ce qui te passe par la tête ?", "opts": [
-        { "text": "Tu imagines comment tu vas raconter ça au pot, avec les voix et tout", "e": 2, "a": 0 },
-        { "text": "Tu inventes une punchline dévastatrice que tu chuchoteras peut-être à ton voisin", "e": -1, "a": 2 },
-        { "text": "Tu cherches un moyen de faire dérailler la conversation dans une direction chaleureuse", "e": 0, "a": -1 },
-        { "text": "Tu observes en silence le théâtre autour de toi et tu savoures l'absurdité", "e": -2, "a": 0 }]},
-      { "q": "Comment réagis-tu quand quelqu'un te complimente ?", "opts": [
-        { "text": "Tu en fais toute une histoire. Exagérément modeste, théâtral, pour que tout le monde rie", "e": 2, "a": -1 },
-        { "text": "Tu renvoies avec une blague piquante : « Enfin quelqu'un qui s'en rend compte. »", "e": 0, "a": 2 },
-        { "text": "Tu remercies sincèrement et tu blagues sur tes propres défauts", "e": -1, "a": -2 },
-        { "text": "Tu hoches la tête, tu souris, et tu ne dis rien. Tu laisses le moment exister", "e": -2, "a": 0 }]},
-      { "q": "Dernière question. C'est quoi, l'humour, pour toi ?", "opts": [
-        { "text": "De l'énergie : l'étincelle qui fait vivre une pièce", "e": 2, "a": -1 },
-        { "text": "Une arme : dire la vérité d'une manière qui arrive à destination", "e": 0, "a": 2 },
-        { "text": "Du lien : le moment où deux personnes entrent vraiment en contact", "e": -1, "a": -2 },
-        { "text": "De l'observation : voir ce que les autres ne voient pas", "e": -2, "a": 1 }]}
+      {
+        "q": "Ton collègue trébuche sur un câble dans la salle de réunion. Que fais-tu ?",
+        "opts": [
+          {
+            "text": "Tu en fais tout un spectacle : « Mesdames et messieurs, le grand numéro de l'après-midi ! »",
+            "e": 2,
+            "a": -1
+          },
+          {
+            "text": "Tu souris sèchement : « Ce câble était depuis des mois le membre le plus performant de l'équipe. »",
+            "e": -2,
+            "a": 2
+          },
+          {
+            "text": "Tu l'aides à se relever et tu fais une blague sur ta propre maladresse",
+            "e": -1,
+            "a": -2
+          },
+          {
+            "text": "Tu dis avec un visage impassible : « Parfait. Exactement l'énergie dont cette réunion avait besoin. »",
+            "e": -2,
+            "a": 1
+          }
+        ]
+      },
+      {
+        "q": "Tu es à une fête où tu ne connais presque personne. Comment brises-tu la glace ?",
+        "opts": [
+          {
+            "text": "Tu fais à voix haute une observation sur quelque chose d'absurde dans la pièce. Tout le monde l'entend",
+            "e": 2,
+            "a": 0
+          },
+          {
+            "text": "Tu fais une remarque personnelle, légèrement vulnérable, à la personne à côté de toi",
+            "e": -1,
+            "a": -2
+          },
+          {
+            "text": "Tu fais une blague piquante sur l'hôte ou la nourriture, juste à la limite",
+            "e": 1,
+            "a": 2
+          },
+          {
+            "text": "Tu attends, tu observes, puis tu places exactement la bonne remarque au bon moment",
+            "e": -2,
+            "a": 0
+          }
+        ]
+      },
+      {
+        "q": "Une présentation part complètement en vrille. Les slides ne marchent pas. Que dis-tu ?",
+        "opts": [
+          {
+            "text": "Tu improvises théâtralement : « Bienvenue à mon TED Talk. Sans le T, le E et le D. »",
+            "e": 2,
+            "a": 0
+          },
+          {
+            "text": "Tu murmures à ton voisin : « C'est la meilleure chose qui pouvait arriver à cette présentation. »",
+            "e": -2,
+            "a": 2
+          },
+          {
+            "text": "Tu dis : « C'est exactement à ça que ressemble ma vie. Pleine de bonnes intentions, zéro exécution. »",
+            "e": 0,
+            "a": -2
+          },
+          {
+            "text": "Tu prends la salle avec ton énergie et tu en fais une histoire qui embarque tout le monde",
+            "e": 2,
+            "a": -1
+          }
+        ]
+      },
+      {
+        "q": "Ton meilleur ami te parle fièrement d'une nouvelle idée que tu ne trouves pas très forte. Que fais-tu ?",
+        "opts": [
+          {
+            "text": "Tu soulignes avec enthousiasme ce qui EST bien et tu blagues sur tes propres mauvaises idées",
+            "e": 0,
+            "a": -2
+          },
+          {
+            "text": "Tu fais une remarque sèche : « Quelqu'un t'a payé pour ça, ou c'est mauvais gratuitement ? »",
+            "e": -1,
+            "a": 2
+          },
+          {
+            "text": "Tu joues l'avocat du diable de façon grande et théâtrale",
+            "e": 2,
+            "a": 1
+          },
+          {
+            "text": "Tu souris subtilement et tu poses une question qui l'amène lui-même à la conclusion",
+            "e": -2,
+            "a": -1
+          }
+        ]
+      },
+      {
+        "q": "Ton manager envoie un e-mail avec 47 puces et l'objet « Petit point rapide ». Que penses-tu ?",
+        "opts": [
+          {
+            "text": "Tu réponds à tous : « Merci pour le résumé. Il existe aussi un résumé du résumé ? »",
+            "e": 2,
+            "a": 2
+          },
+          {
+            "text": "Tu écris à un collègue : « Je viens de lire un roman. Spoiler : la fin est un plan d'action. »",
+            "e": -1,
+            "a": 1
+          },
+          {
+            "text": "Tu laisses passer mais tu le raconteras plus tard comme une histoire drôle au pot",
+            "e": 0,
+            "a": -1
+          },
+          {
+            "text": "Tu envoies un gentil message à ton manager disant que ça pourrait être plus court",
+            "e": -1,
+            "a": -2
+          }
+        ]
+      },
+      {
+        "q": "Quelqu'un raconte une blague qui tombe complètement à plat. Silence gênant. Que fais-tu ?",
+        "opts": [
+          {
+            "text": "Tu la sauves en en rajoutant une couche toi-même. Plus grand, plus absurde",
+            "e": 2,
+            "a": -1
+          },
+          {
+            "text": "Tu dis avec un visage impassible : « C'était si mauvais que c'en était presque redevenu bon. Presque. »",
+            "e": -1,
+            "a": 2
+          },
+          {
+            "text": "Tu ris avec, même si ce n'était pas drôle. Tu apprécies la tentative",
+            "e": -1,
+            "a": -2
+          },
+          {
+            "text": "Tu laisses le silence exister. Tu en profites secrètement. Tu regardes autour de toi.",
+            "e": -2,
+            "a": 1
+          }
+        ]
+      },
+      {
+        "q": "On te demande de porter un toast au départ d'un collègue. Comment t'y prends-tu ?",
+        "opts": [
+          {
+            "text": "Grand, chaleureux, avec plein de compliments publics et quelques private jokes",
+            "e": 2,
+            "a": -1
+          },
+          {
+            "text": "Court, sec, avec une observation si juste que la salle se tait d'abord, puis éclate de rire",
+            "e": -1,
+            "a": 2
+          },
+          {
+            "text": "Personnel, honnête, avec une histoire sur un moment vulnérable que vous avez partagé",
+            "e": 0,
+            "a": -2
+          },
+          {
+            "text": "Tu ouvres avec une anecdote inattendue que personne ne voit venir et tu termines par un clin d'œil discret",
+            "e": -2,
+            "a": 0
+          }
+        ]
+      },
+      {
+        "q": "Une discussion au travail est bloquée. Tout le monde est dans les tranchées. Que fais-tu ?",
+        "opts": [
+          {
+            "text": "Tu nommes l'absurdité à voix haute, pour tout le monde : « On se comporte comme des gamins avec un budget de conseil d'administration. »",
+            "e": 2,
+            "a": 1
+          },
+          {
+            "text": "Tu chuchotes à ton voisin quelque chose qui le fait rire. La tension se brise",
+            "e": -2,
+            "a": 0
+          },
+          {
+            "text": "Tu fais une blague sur toi-même : « Moi non plus je ne comprends pas, je me suis dit que j'allais juste hocher la tête. »",
+            "e": 0,
+            "a": -2
+          },
+          {
+            "text": "Tu lances un exemple tellement fou qu'il fait tout éclater",
+            "e": 1,
+            "a": -1
+          }
+        ]
+      },
+      {
+        "q": "Quels humoristes te parlent le plus ?",
+        "opts": [
+          {
+            "text": "Robin Williams, Jamel Debbouze : grands, énergiques, imprévisibles",
+            "e": 2,
+            "a": -1
+          },
+          {
+            "text": "Ricky Gervais, Blanche Gardin : tranchants, honnêtes, provocants",
+            "e": 1,
+            "a": 2
+          },
+          {
+            "text": "Jerry Seinfeld, Alex Vizorek : chaleureux, observateurs, proches",
+            "e": -1,
+            "a": -2
+          },
+          {
+            "text": "Steven Wright, Fabrice Luchini en mode pince-sans-rire : secs, impassibles, d'une précision sournoise",
+            "e": -2,
+            "a": 1
+          }
+        ]
+      },
+      {
+        "q": "Tu es coincé dans une réunion ennuyeuse. Qu'est-ce qui te passe par la tête ?",
+        "opts": [
+          {
+            "text": "Tu imagines comment tu vas raconter ça au pot, avec les voix et tout",
+            "e": 2,
+            "a": 0
+          },
+          {
+            "text": "Tu inventes une punchline dévastatrice que tu chuchoteras peut-être à ton voisin",
+            "e": -1,
+            "a": 2
+          },
+          {
+            "text": "Tu cherches un moyen de faire dérailler la conversation dans une direction chaleureuse",
+            "e": 0,
+            "a": -1
+          },
+          {
+            "text": "Tu observes en silence le théâtre autour de toi et tu savoures l'absurdité",
+            "e": -2,
+            "a": 0
+          }
+        ]
+      },
+      {
+        "q": "Comment réagis-tu quand quelqu'un te complimente ?",
+        "opts": [
+          {
+            "text": "Tu en fais toute une histoire. Exagérément modeste, théâtral, pour que tout le monde rie",
+            "e": 2,
+            "a": -1
+          },
+          {
+            "text": "Tu renvoies avec une blague piquante : « Enfin quelqu'un qui s'en rend compte. »",
+            "e": 0,
+            "a": 2
+          },
+          {
+            "text": "Tu remercies sincèrement et tu blagues sur tes propres défauts",
+            "e": -1,
+            "a": -2
+          },
+          {
+            "text": "Tu hoches la tête, tu souris, et tu ne dis rien. Tu laisses le moment exister",
+            "e": -2,
+            "a": 0
+          }
+        ]
+      },
+      {
+        "q": "Dernière question. C'est quoi, l'humour, pour toi ?",
+        "opts": [
+          {
+            "text": "De l'énergie : l'étincelle qui fait vivre une pièce",
+            "e": 2,
+            "a": -1
+          },
+          {
+            "text": "Une arme : dire la vérité d'une manière qui arrive à destination",
+            "e": 0,
+            "a": 2
+          },
+          {
+            "text": "Du lien : le moment où deux personnes entrent vraiment en contact",
+            "e": -1,
+            "a": -2
+          },
+          {
+            "text": "De l'observation : voir ce que les autres ne voient pas",
+            "e": -2,
+            "a": 1
+          }
+        ]
+      }
     ],
     "hqTypes": {
-      "magnet": { "name": "L'Aimant", "sub": "Expressif et fédérateur",
+      "magnet": {
+        "name": "L'Aimant",
+        "sub": "Expressif et fédérateur",
         "desc": "Tu es la personne autour de qui tout le monde se rassemble. Ton humour est grand, chaleureux et contagieux. Tu remplis une pièce d'énergie sans que ce soit jamais aux dépens de quelqu'un. Les gens se sentent mieux quand tu es là, et souvent sans savoir exactement pourquoi. C'est ta présence, ta volonté de faire le fou, ton refus de te prendre trop au sérieux.",
         "strength": "Tu crées l'ambiance. Quand tu es en réunion, le ton est différent. Plus léger. Plus libre. Les gens osent davantage.",
         "risk": "Parfois tu peux dominer la pièce. Tout le monde n'est pas toujours d'humeur pour la grande énergie. Apprends à lire quand la subtilité est plus puissante.",
-        "tip": "Utilise ton magnétisme consciemment dans les cinq premières minutes d'une réunion. C'est toi qui donnes le ton, et ce ton détermine tout ce qui suit." },
-      "standup": { "name": "Le Stand-up", "sub": "Expressif et offensif",
+        "tip": "Utilise ton magnétisme consciemment dans les cinq premières minutes d'une réunion. C'est toi qui donnes le ton, et ce ton détermine tout ce qui suit."
+      },
+      "standup": {
+        "name": "Le Stand-up",
+        "sub": "Expressif et offensif",
         "desc": "Tu es la personne qui dit ce que tout le monde pense mais que personne n'ose dire. Ton humour est grand, provocant, parfois inconfortable et presque toujours juste. Tu oses nommer l'éléphant dans la pièce, et tu le fais avec un sourire qui désarme les gens juste assez pour qu'ils écoutent.",
         "strength": "Tu brises les schémas. Là où les autres tournent autour du pot, tu vas droit au but, avec l'humour comme lubrifiant.",
         "risk": "Tu peux aller trop loin. Ce que tu vois comme de l'honnêteté peut être ressenti comme une attaque. Vérifie ton intention.",
-        "tip": "Les meilleurs Stand-ups combinent le tranchant et la chaleur. Fais la blague, puis montre que c'est la personne qui t'importe, et pas seulement le rire." },
-      "sweetheart": { "name": "Le Sweetheart", "sub": "Subtil et fédérateur",
+        "tip": "Les meilleurs Stand-ups combinent le tranchant et la chaleur. Fais la blague, puis montre que c'est la personne qui t'importe, et pas seulement le rire."
+      },
+      "sweetheart": {
+        "name": "Le Sweetheart",
+        "sub": "Subtil et fédérateur",
         "desc": "Tu es la force tranquille. Ton humour est chaleureux, doux et fédérateur. Tu es rarement la personne la plus bruyante de la pièce et pourtant souvent la plus appréciée. Tu rends les gens heureux sans qu'ils puissent dire exactement comment. L'autodérision est ton super-pouvoir : tu te portes avec assez de légèreté pour mettre les autres à l'aise.",
         "strength": "Tu construis la confiance. Les gens s'ouvrent à toi parce que tu inspires la sécurité. Ton humour ne blesse personne et touche tout le monde.",
         "risk": "Tu peux être trop gentil. Parfois il faut une remarque tranchante et tu l'évites. Apprends à nommer aussi l'inconfortable. Ça te rendra plus complet.",
-        "tip": "Ne sous-estime pas ton propre impact. Le Sweetheart est souvent éclipsé par les types plus bruyants, mais dans une équipe, c'est toi le ciment. Sans toi, tout se disloque." },
-      "sniper": { "name": "Le Sniper", "sub": "Subtil et offensif",
+        "tip": "Ne sous-estime pas ton propre impact. Le Sweetheart est souvent éclipsé par les types plus bruyants, mais dans une équipe, c'est toi le ciment. Sans toi, tout se disloque."
+      },
+      "sniper": {
+        "name": "Le Sniper",
+        "sub": "Subtil et offensif",
         "desc": "Tu es le maître du tranchant sec et discret. Impassible. La blague qui n'arrive que trois secondes plus tard, et frappe d'autant plus fort. Tu parles peu, mais quand tu dis quelque chose, ça touche. Ton humour est un instrument de précision : étroit et profond.",
         "strength": "Ton timing est mortel. Là où les autres font dix blagues, tu en fais une. Et celle-là bat les dix réunies.",
         "risk": "Tout le monde ne te lit pas. L'humour subtil peut se perdre chez ceux qui sont habitués à un style plus expressif, et le tranchant sec peut mal atterrir chez ceux qui ne te connaissent pas encore.",
-        "tip": "Combine ton tranchant avec un moment chaleureux de temps en temps. Le Sniper qui ose aussi être vulnérable est irrésistible, parce que personne ne le voit venir." }
+        "tip": "Combine ton tranchant avec un moment chaleureux de temps en temps. Le Sniper qui ose aussi être vulnérable est irrésistible, parce que personne ne le voit venir."
+      }
     },
     "t": {
       "copied": "Copié",
@@ -265,7 +868,7 @@
       "oiShareText": "Mon Index Ouwehoer est de {score}/100 : {label}. Et le tien ? Fais le test de De kracht van het ouwehoeren.",
       "cardOiKicker": "MON INDEX OUWEHOER",
       "hqTag": "Quiz",
-      "hqIntroTitle": "Quatre types. Tu en es un.",
+      "hqIntroTitle": "Quatre types. Lequel es-tu ?",
       "hqIntroMeta": "12 situations, 3 minutes, pas de bonnes ou de mauvaises réponses. Enfin, presque.",
       "hqStart": "Commencer le quiz",
       "hqStrength": "Ta force",
@@ -289,6 +892,10 @@
       "bingoShareN": "J'ai entendu aujourd'hui {n} des 12 clichés de réunion en direct. Joue au Bingo des réunions de De kracht van het ouwehoeren.",
       "mailSubject": "Tenez-moi au courant de De kracht van het ouwehoeren",
       "mailBody": "Bonjour Bram,\n\nMets-moi sur la liste pour le livre (édition française s'il te plaît).\n\nMon adresse e-mail : {email}\n\nMerci !"
+    },
+    "heroAlt": {
+      "h1": "Moins de réunions.",
+      "flip": "Plus de ouwehoeren."
     }
   }
 }

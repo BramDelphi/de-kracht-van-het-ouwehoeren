@@ -7,11 +7,17 @@
     "metaDesc": "Ouwehoeren ist ein Handwerk. Miss deinen Ouwehoer-Index, entdecke deinen Humorstil und spiel Meeting-Bingo. Das Buch von Psychiater und Unternehmer Bram van der Boom erscheint bald.",
     "ogTitle": "De kracht van het ouwehoeren | Die niederländische Kunst des Quatschens bei der Arbeit",
     "ogDesc": "Deine besten Ideen entstehen nicht im Meeting. Sie entstehen auf dem Flur, direkt danach. Miss deinen Ouwehoer-Index.",
-    "nav": { "index": "Der Index", "humor": "Humorstil", "bingo": "Bingo", "book": "Das Buch", "cta": "Halte mich auf dem Laufenden" },
+    "nav": {
+      "index": "Der Index",
+      "humor": "Humorstil",
+      "bingo": "Bingo",
+      "book": "Das Buch",
+      "cta": "Halte mich auf dem Laufenden"
+    },
     "hero": {
       "badge": "Das Buch erscheint bald",
-      "h1": "Deine besten Ideen entstehen nicht im Meeting.",
-      "flip": "Sie entstehen auf dem Flur, direkt danach.",
+      "h1": "Schluss mit Meetings.",
+      "flip": "Zeit für Ouwehoeren.",
       "sub": "Irgendwann haben wir alle beschlossen, dass ernst sein professionell ist. Währenddessen passiert die echte Arbeit woanders: an der Kaffeemaschine, auf dem Flur, beim Quatschen, für das wir uns heimlich schuldig fühlen. Die Niederländer haben ein Wort dafür: ouwehoeren. Psychiater und Unternehmer Bram van der Boom räumt mit dem Mythos auf. Wer es beherrscht, baut bessere Teams, bessere Deals und ein besseres Arbeitsleben.",
       "cta1": "Miss deinen Ouwehoer-Index",
       "cta2": "Spiel Meeting-Bingo",
@@ -22,39 +28,86 @@
       "h2": "Das unernsteste Wort der Niederlande entpuppt sich als die am meisten <em>unterschätzte Fähigkeit.</em>",
       "lede": "Ouwehoeren (niederländisch, unübersetzbar): die Kunst des lockeren, verspielten Gesprächs ohne Agenda. Der Flur nach dem Meeting ist produktiver als das Meeting selbst. Du weißt es. Alle wissen es. Und trotzdem tun wir so, als wäre es umgekehrt.",
       "cards": [
-        { "t": "Das lockere Gespräch ist keine Pause von der Arbeit", "p": "Es ist die Arbeit. Deals, Teams und Unternehmen entstehen im informellen Moment. Die Wissenschaft weiß es längst, Organisationen ignorieren es systematisch." },
-        { "t": "Ouwehoeren ist ein Handwerk, kein Talent", "p": "Es ist trainierbar. Fast jeder kann es lernen, und es beginnt mit der Bereitschaft, sich selbst etwas weniger ernst zu nehmen. Dieses Buch verlangt nie, dass du jemand anderes wirst." },
-        { "t": "Verbindung kommt vor Inhalt", "p": "Ein Psychiater, der Unternehmer wurde, sah dasselbe Gesetz im Therapiezimmer und im Sitzungssaal. Wer das versteht, baut ein Team, in dem Menschen sagen, was sie denken." }
+        {
+          "t": "Das lockere Gespräch ist keine Pause von der Arbeit",
+          "p": "Es ist die Arbeit. Deals, Teams und Unternehmen entstehen im informellen Moment. Die Wissenschaft weiß es längst, Organisationen ignorieren es systematisch."
+        },
+        {
+          "t": "Ouwehoeren ist ein Handwerk, kein Talent",
+          "p": "Es ist trainierbar. Fast jeder kann es lernen, und es beginnt mit der Bereitschaft, sich selbst etwas weniger ernst zu nehmen. Dieses Buch verlangt nie, dass du jemand anderes wirst."
+        },
+        {
+          "t": "Verbindung kommt vor Inhalt",
+          "p": "Ein Psychiater, der Unternehmer wurde, sah dasselbe Gesetz im Therapiezimmer und im Sitzungssaal. Wer das versteht, baut ein Team, in dem Menschen sagen, was sie denken."
+        }
       ],
-      "quote": "Nichts beruhigt so sehr wie ein Schimmer von Humor: das Zeichen, dass hinter einem fremden Gesicht ein Mitmensch tickt.",
-      "cite": "Eva Hoffman"
+      "quote": "Das Leben ist viel zu wichtig, um ernsthaft darüber zu reden.",
+      "cite": "Oscar Wilde"
     },
-    "oi": { "kicker": "Test 1", "h2": "Der <em>Ouwehoer-Index</em>", "lede": "Wie gut bist du im informellen Spiel? Das ist kein Humortypen-Test. Er misst, wie stark du verbindest: dich trauen, den Raum lesen, dich erholen, echt sein und Menschen anziehen." },
-    "hq": { "kicker": "Test 2", "h2": "Welcher <em>Humorstil</em> bist du?", "lede": "Der Magnet, der Stand-up, der Sweetheart oder der Sniper. Zwölf Situationen, zwei Achsen, ein Ergebnis, das du sofort wiedererkennst. Deine Kollegen übrigens auch." },
-    "bingo": { "kicker": "Spiel mit", "h2": "Das <em>Meeting-Bingo</em>", "lede": "Direkt aus dem Buch. Öffne diese Karte in deinem nächsten Meeting und tippe jeden Satz an, den du hörst. Wir warten so lange.", "count": "von 12 gehört", "share": "Teile deine Karte", "reset": "Neues Meeting", "src": "Aus Kapitel 1, Der Mythos vom Profi" },
+    "oi": {
+      "kicker": "Test 1",
+      "h2": "Der <em>Ouwehoer-Index</em>",
+      "lede": "Wie gut bist du im informellen Spiel? Das ist kein Humortypen-Test. Er misst, wie stark du verbindest: dich trauen, den Raum lesen, dich erholen, echt sein und Menschen anziehen."
+    },
+    "hq": {
+      "kicker": "Test 2",
+      "h2": "Welcher <em>Humorstil</em> bist du?",
+      "lede": "Der Magnet, der Stand-up, der Sweetheart oder der Sniper. Zwölf Situationen, zwei Achsen, ein Ergebnis, das du sofort wiedererkennst. Deine Kollegen übrigens auch."
+    },
+    "bingo": {
+      "kicker": "Spiel mit",
+      "h2": "Das <em>Meeting-Bingo</em>",
+      "lede": "Direkt aus dem Buch. Öffne diese Karte in deinem nächsten Meeting und tippe jeden Satz an, den du hörst. Wir warten so lange.",
+      "count": "von 12 gehört",
+      "share": "Teile deine Karte",
+      "reset": "Neues Meeting",
+      "src": "Aus Kapitel 1, Der Mythos vom Profi"
+    },
     "sci": {
       "kicker": "Keine Meinung. Wissenschaft.",
-      "h2": "Warum Plaudern an der Kaffeemaschine <em>einfach Arbeit</em> ist",
+      "h2": "Warum Ouwehoeren an der Kaffeemaschine <em>Teil der echten Arbeit ist</em>",
       "lede": "Jede Behauptung im Buch steht auf Forschung und auf einer wahren Geschichte. Drei Kostproben.",
       "cards": [
-        { "tag": "Robin Dunbar, Oxford", "t": "Quatschen ist der Nachfolger des Lausens", "p": "Andere Primaten binden sich über den Körper: lausen, pflegen, kraulen. Wir fanden eine schnellere Alternative: Sprache, und vor allem ihre leichteste Form. Gemeinsames Lachen setzt genau dieselben Endorphine frei. Ein gutes Gespräch an der Kaffeemaschine wirkt neurologisch wie ein Arm um die Schulter." },
-        { "tag": "Google, Projekt Aristotle", "t": "Das beste Team ist das sicherste Team", "p": "Google suchte jahrelang nach der Formel des perfekten Teams. Das Ergebnis: psychologische Sicherheit, das Gefühl, sagen zu können, was man denkt, ohne bestraft zu werden. Und der kürzeste Weg dorthin führt über gemeinsames Lachen." },
-        { "tag": "Die Realität nach Corona", "t": "Hybrides Arbeiten zerstörte den informellen Moment", "p": "Homeoffice eliminierte genau das, worum es in diesem Buch geht: die spontane, ungeplante Begegnung. Organisationen kämpfen sichtbar mit Verbindung, Bindung und Kultur. Dieses Buch gibt die Antwort, die andere Managementbücher auslassen." }
+        {
+          "tag": "Robin Dunbar, Oxford",
+          "t": "Quatschen ist der Nachfolger des Lausens",
+          "p": "Andere Primaten binden sich über den Körper: lausen, pflegen, kraulen. Wir fanden eine schnellere Alternative: Sprache, und vor allem ihre leichteste Form. Gemeinsames Lachen setzt genau dieselben Endorphine frei. Ein gutes Gespräch an der Kaffeemaschine wirkt neurologisch wie ein Arm um die Schulter."
+        },
+        {
+          "tag": "Google, Projekt Aristotle",
+          "t": "Das beste Team ist das, in dem man ungestraft quatschen kann",
+          "p": "Google suchte jahrelang nach der Formel des perfekten Teams. Das Ergebnis: psychologische Sicherheit, das Gefühl, sagen zu können, was man denkt, ohne bestraft zu werden. Und der kürzeste Weg dorthin führt über gemeinsames Lachen."
+        },
+        {
+          "tag": "Die Realität nach Corona",
+          "t": "Hybrides Arbeiten zerstörte den informellen Moment",
+          "p": "Homeoffice eliminierte genau das, worum es in diesem Buch geht: die spontane, ungeplante Begegnung. Organisationen kämpfen sichtbar mit Verbindung, Bindung und Kultur. Dieses Buch gibt die Antwort, die andere Managementbücher auslassen."
+        }
       ]
     },
     "book": {
       "kicker": "Das Buch",
       "h2": "Quatschen ist ein Handwerk. <em>Zeit, es ernst zu nehmen.</em>",
-      "lede": "Dieses Buch lehrt dich keine Tricks und verlangt nicht, dass du jemand anderes wirst. Es zeigt dir, wie du die Maske ablegst, wie Humor funktioniert (auch wenn du denkst, dass du nicht witzig bist), und wie du ein Team baust, in dem Menschen sagen, was sie denken. Weil sie vorher zusammen gelacht haben.",
-      "coverTop": "Management, aber unterhaltsam",
-      "coverSub": "Warum der Flur mehr bringt als der Besprechungsraum",
+      "lede": "Dieses Buch lehrt dich keine Tricks und verlangt nicht, dass du jemand anderes wirst. Es zeigt dir, wie du die Maske ablegst, wie Humor und Mut funktionieren (auch wenn du denkst, dass du nicht witzig bist), und wie du ein Team baust, in dem Menschen sagen, was sie denken. Weil sie vorher zusammen gequatscht haben.",
+      "coverTop": "Was sie dir im MBA nicht beibringen.",
+      "coverSub": "Die holländische Kunst, bei der Arbeit Quatsch zu reden",
       "moves": [
-        { "t": "Warum es funktioniert", "p": "Der Mythos vom Profi, Quatschen als Handwerk, und was ein Therapeut und eine Krokette dich über Verbindung lehren." },
-        { "t": "Wie du es selbst machst", "p": "Verrückte Authentizität, der Duett-Effekt, Humor als Superkraft, und Flirten für Fortgeschrittene." },
-        { "t": "In dein Team und deine Organisation", "p": "Die Kaffeemaschine als Boardroom, und wie du eine Kultur baust, in der Quatschen einfach als Arbeit zählt." }
+        {
+          "t": "Warum es funktioniert",
+          "p": "Der Mythos vom Profi, Quatschen als Handwerk, und was ich von einem Therapeuten und einer Krokette gelernt habe."
+        },
+        {
+          "t": "Wie du es selbst machst",
+          "p": "Authentizität, der Ouwehoer-Duett-Effekt, Humor als Gabe und als Fähigkeit, und Flirten für Fortgeschrittene: flirte mit allen."
+        },
+        {
+          "t": "Dein Team und deine Organisation",
+          "p": "Humor am Arbeitsplatz, und wie du eine Kultur baust, in der Quatschen den Wert bekommt, den es verdient."
+        }
       ],
       "authorHead": "Über den Autor",
-      "authorBio": "Bram van der Boom ist Psychiater und Unternehmer. Er ist Gründer von Psyflix, der größten Videoplattform für Fachkräfte in der niederländischen psychischen Gesundheitsversorgung. Als Psychiater behandelte er Hunderte von Menschen; als Unternehmer baute er ein Unternehmen von Grund auf. In beiden Welten entdeckte er dasselbe: Die echte Arbeit passiert im informellen Moment. Dies ist sein erstes Buch."
+      "authorBio": "Bram van der Boom ist Psychiater und Unternehmer. Er ist Mitgründer von Psyflix, der größten Videoplattform für Fachkräfte in der niederländischen psychischen Gesundheitsversorgung. Als Psychiater behandelte er Tausende von Menschen; als Unternehmer baute er ein Unternehmen von Grund auf. In beiden Welten sah er dieselben Prinzipien am Werk. Als Unternehmer entdeckte er die Kraft des Ouwehoeren.",
+      "coverTitle": "<em>Ouwehoeren</em>"
     },
     "signup": {
       "kicker": "Bleib auf dem Laufenden",
@@ -65,183 +118,733 @@
       "ok": "Danke. Dein E-Mail-Programm öffnet jetzt eine kurze Nachricht an den Autor. Auf Senden klicken und du stehst auf der Liste.",
       "fine": "Kein Spam. Kein \"Lass uns das mal mitnehmen\". Nur eine Nachricht, wenn das Buch da ist."
     },
-    "footer": { "byline": "Ein Buch von Bram van der Boom, Psychiater und Unternehmer", "quote": "Nimm die Arbeit ernst. Dich selbst etwas weniger." }
+    "footer": {
+      "byline": "Ein Buch von Bram van der Boom, Psychiater und Unternehmer",
+      "quote": "Nimm die Arbeit ernst. Dich selbst etwas weniger."
+    }
   },
   "data": {
-    "jargon": ["Da müssen wir alle Stakeholder abholen", "Das parken wir erstmal", "Am Ende des Tages", "Das nehme ich mal mit", "Wir müssen die PS auf die Straße bringen", "Lass uns das bilateral klären", "Auf Augenhöhe kommunizieren", "Da machen wir einen Arbeitskreis auf", "Ich höre, was Sie sagen", "Quick Win", "Das ist nicht zielführend", "Wir müssen alle mitnehmen"],
+    "jargon": [
+      "Da müssen wir alle Stakeholder abholen",
+      "Das parken wir erstmal",
+      "Am Ende des Tages",
+      "Das nehme ich mal mit",
+      "Wir müssen die PS auf die Straße bringen",
+      "Lass uns das bilateral klären",
+      "Auf Augenhöhe kommunizieren",
+      "Da machen wir einen Arbeitskreis auf",
+      "Ich höre, was Sie sagen",
+      "Quick Win",
+      "Das ist nicht zielführend",
+      "Wir müssen alle mitnehmen"
+    ],
     "dims": {
-      "opener": { "name": "Opener-Kraft", "desc": "Deine Fähigkeit, Muster zu durchbrechen und Gespräche auf unerwartete Weise zu eröffnen." },
-      "leeskracht": { "name": "Raumgespür", "desc": "Wie gut du den Raum liest: die Stimmung spürst, die Grenzen siehst, das Timing triffst." },
-      "herstel": { "name": "Erholungskraft", "desc": "Was du tust, wenn es schiefgeht. Wenn der Witz nicht landet, wenn es unangenehm wird." },
-      "authentiek": { "name": "Authentizität", "desc": "Wie nah du in beruflichen und sozialen Situationen bei deinem echten Selbst bleibst." },
-      "magnetisme": { "name": "Magnetismus", "desc": "Wie stark Menschen sich zu dir hingezogen fühlen. Oder ob immer du zu ihnen gehen musst." }
+      "opener": {
+        "name": "Opener-Kraft",
+        "desc": "Deine Fähigkeit, Muster zu durchbrechen und Gespräche auf unerwartete Weise zu eröffnen."
+      },
+      "leeskracht": {
+        "name": "Raumgespür",
+        "desc": "Wie gut du den Raum liest: die Stimmung spürst, die Grenzen siehst, das Timing triffst."
+      },
+      "herstel": {
+        "name": "Erholungskraft",
+        "desc": "Was du tust, wenn es schiefgeht. Wenn der Witz nicht landet, wenn es unangenehm wird."
+      },
+      "authentiek": {
+        "name": "Authentizität",
+        "desc": "Wie nah du in beruflichen und sozialen Situationen bei deinem echten Selbst bleibst."
+      },
+      "magnetisme": {
+        "name": "Magnetismus",
+        "desc": "Wie stark Menschen sich zu dir hingezogen fühlen. Oder ob immer du zu ihnen gehen musst."
+      }
     },
     "oiLevels": [
-      { "label": "Meister-Ouwehoerder", "desc": "Du bist eine Naturgewalt. Menschen fühlen sich besser, wenn du in der Nähe bist, und du kannst jeden Raum verändern. Deine Herausforderung: bewusst einsetzen, was du schon kannst." },
-      { "label": "Fortgeschrittener Ouwehoerder", "desc": "Du hast es in dir. Die Basis ist stark: Du traust dich, du liest, du erholst dich. In ein paar Dimensionen kannst du noch wachsen, und wenn du die angehst, bist du nicht mehr zu stoppen." },
-      { "label": "Ouwehoerder in Ausbildung", "desc": "Du hast Potenzial, aber du hältst dich noch oft zurück. Vielleicht aus Unsicherheit, vielleicht aus Gewohnheit. Dieses Buch wurde für dich geschrieben: kleine Schritte, die einen großen Unterschied machen." },
-      { "label": "Stille Kraft", "desc": "Du bist mehr Zuhörer als Redner, und das ist kein Fehler. Aber in dir steckt mehr, als du gerade zeigst. Fang bei der Authentizität an, der Rest kommt von selbst." }
+      {
+        "label": "Meister-Ouwehoerder",
+        "desc": "Du bist eine Naturgewalt. Menschen fühlen sich besser, wenn du in der Nähe bist, und du kannst jeden Raum verändern. Deine Herausforderung: bewusst einsetzen, was du schon kannst."
+      },
+      {
+        "label": "Fortgeschrittener Ouwehoerder",
+        "desc": "Du hast es in dir. Die Basis ist stark: Du traust dich, du liest, du erholst dich. In ein paar Dimensionen kannst du noch wachsen, und wenn du die angehst, bist du nicht mehr zu stoppen."
+      },
+      {
+        "label": "Ouwehoerder in Ausbildung",
+        "desc": "Du hast Potenzial, aber du hältst dich noch oft zurück. Vielleicht aus Unsicherheit, vielleicht aus Gewohnheit. Dieses Buch wurde für dich geschrieben: kleine Schritte, die einen großen Unterschied machen."
+      },
+      {
+        "label": "Stille Kraft",
+        "desc": "Du bist mehr Zuhörer als Redner, und das ist kein Fehler. Aber in dir steckt mehr, als du gerade zeigst. Fang bei der Authentizität an, der Rest kommt von selbst."
+      }
     ],
     "oiQuestions": [
-      { "dim": "opener", "q": "Du kommst auf einen Kongress, auf dem du niemanden kennst. Du stehst bei einer Gruppe Fremder. Was machst du?", "opts": [
-        { "text": "Du wartest, bis dich jemand anspricht", "s": 0 },
-        { "text": "Du stellst dich höflich vor und fragst, was sie machen", "s": 1 },
-        { "text": "Du machst eine Bemerkung über etwas im Raum, das dir auffällt", "s": 2 },
-        { "text": "Du wirfst eine absurde Beobachtung oder Frage ein, die das Eis sofort bricht", "s": 3 }]},
-      { "dim": "opener", "q": "Du sitzt in einem Meeting, das seit zehn Minuten langweiliger ist als erwartet. Alle starren auf ihre Laptops. Was machst du?", "opts": [
-        { "text": "Du wartest, bis es vorbei ist. Es ist nicht deine Verantwortung", "s": 0 },
-        { "text": "Du stellst eine inhaltliche Frage, um das Gespräch in Gang zu bringen", "s": 1 },
-        { "text": "Du machst eine leichte Bemerkung über die Stimmung im Raum", "s": 2 },
-        { "text": "Du durchbrichst das Muster mit etwas Unerwartetem: einem Witz, einer absurden Frage, einer persönlichen Anekdote", "s": 3 }]},
-      { "dim": "opener", "q": "Jemand fragt dich: 'Wie war dein Wochenende?' Was antwortest du?", "opts": [
-        { "text": "'Gut, deins?', und du belässt es dabei", "s": 0 },
-        { "text": "Du gibst eine ehrliche, kurze Antwort darüber, was du gemacht hast", "s": 1 },
-        { "text": "Du wählst das bemerkenswerteste Detail und bläst es zu einer Geschichte auf", "s": 2 },
-        { "text": "Du antwortest mit etwas so Unerwartetem, dass dein Gegenüber kurz innehält", "s": 3 }]},
-      { "dim": "leeskracht", "q": "Du machst einen Witz und siehst, dass eine Person in der Gruppe nicht lacht. Was registrierst du?", "opts": [
-        { "text": "Nichts. Du achtest nicht darauf, wer lacht und wer nicht", "s": 0 },
-        { "text": "Du bemerkst es, denkst aber: Die Person hat keinen Humor", "s": 1 },
-        { "text": "Du bemerkst es und fragst dich, ob der Witz für diese Person zu weit ging", "s": 2 },
-        { "text": "Du bemerkst es sofort, liest den Grund (Unbehagen, Timing, persönlich) und passt deinen Ton an", "s": 3 }]},
-      { "dim": "leeskracht", "q": "Du bist auf einem Empfang. Eine kleine Gruppe führt offensichtlich ein ernstes Gespräch. Du willst dazu. Was machst du?", "opts": [
-        { "text": "Du gehst hin und mischst dich ins Gespräch", "s": 0 },
-        { "text": "Du wartest, bis das Gespräch leichter wird, und steigst dann ein", "s": 1 },
-        { "text": "Du liest die Körpersprache (geschlossener oder offener Kreis?) und wählst deinen Moment", "s": 2 },
-        { "text": "Du schnappst ein Fragment auf, wartest auf einen natürlichen Moment und steigst mit etwas ein, das zum Ton passt", "s": 3 }]},
-      { "dim": "leeskracht", "q": "Ein Kollege erzählt begeistert von einem Projekt, aber in einem Nebensatz hörst du etwas, das nach Zweifel klingt. Was machst du?", "opts": [
-        { "text": "Du hörst höflich zu und machst mit deinem Tag weiter", "s": 0 },
-        { "text": "Du fragst allgemein zum Projekt nach", "s": 1 },
-        { "text": "Du merkst es dir und sprichst es später an", "s": 2 },
-        { "text": "Du greifst es sofort auf: 'Moment, das Letzte klang, als wärst du dir bei etwas nicht ganz sicher'", "s": 3 }]},
-      { "dim": "herstel", "q": "Du machst einen Witz, der überhaupt nicht landet. Peinliche Stille. Was machst du?", "opts": [
-        { "text": "Du fühlst dich schlecht und hältst für den Rest des Gesprächs den Mund", "s": 0 },
-        { "text": "Du tust, als wäre nichts passiert, und machst schnell weiter", "s": 1 },
-        { "text": "Du benennst es: 'Okay, das war eindeutig nicht mein bester', und machst weiter", "s": 2 },
-        { "text": "Du machst einen zweiten Witz daraus: 'Das muss ich selbst erstmal verarbeiten', und aus der Stille wird doch noch ein Lachen", "s": 3 }]},
-      { "dim": "herstel", "q": "Du sagst etwas Persönliches zu einem neuen Kollegen und siehst, dass es zu früh war. Der andere zieht sich zurück. Was machst du?", "opts": [
-        { "text": "Du fühlst dich schuldig und meidest die Person eine Weile", "s": 0 },
-        { "text": "Du tust, als wäre nichts passiert, und bleibst auf sicherem Terrain", "s": 1 },
-        { "text": "Du erkennst es subtil an: 'Sorry, das war vielleicht etwas zu direkt', und gibst Raum", "s": 2 },
-        { "text": "Du machst es mit einem Witz über dich selbst leicht und lässt den anderen entscheiden, ob er weitermachen will", "s": 3 }]},
-      { "dim": "herstel", "q": "Du wirst in einer Gruppe für etwas korrigiert, das du gerade gesagt hast. Es fühlt sich unangenehm an. Wie reagierst du?", "opts": [
-        { "text": "Du wirst defensiv oder still. Es trifft dich mehr, als du zeigst", "s": 0 },
-        { "text": "Du akzeptierst die Korrektur höflich und machst weiter", "s": 1 },
-        { "text": "Du bedankst dich und machst eine leichte Bemerkung über deinen eigenen Fehler", "s": 2 },
-        { "text": "Du lachst über dich selbst, übertreibst deinen Fehler theatralisch, und die Spannung verschwindet", "s": 3 }]},
-      { "dim": "authentiek", "q": "Du sitzt in einem Meeting mit dem Senior Management. Wie anders verhältst du dich als mit deinen direkten Kollegen?", "opts": [
-        { "text": "Komplett anders. Du wägst jedes Wort ab und bist formeller", "s": 0 },
-        { "text": "Deutlich anders. Du hältst dich zurück und gehst auf Nummer sicher", "s": 1 },
-        { "text": "Leicht angepasst. Du liest die Situation, bleibst aber erkennbar", "s": 2 },
-        { "text": "Kaum. Du bist dieselbe Person, egal wer am Tisch sitzt", "s": 3 }]},
-      { "dim": "authentiek", "q": "Jemand fragt deine Meinung zu einer Idee, die du nicht besonders stark findest. Der Urheber sitzt daneben. Was machst du?", "opts": [
-        { "text": "Du sagst, dass du die Idee gut findest. Du willst niemanden verletzen", "s": 0 },
-        { "text": "Du nennst ein paar positive Punkte und behältst deine Kritik für dich", "s": 1 },
-        { "text": "Du gibst deine ehrliche Meinung, verpackst sie aber sorgfältig", "s": 2 },
-        { "text": "Du sagst, was du denkst: direkt, ehrlich, mit Respekt, aber ohne Zuckerguss", "s": 3 }]},
-      { "dim": "authentiek", "q": "Nach einem langen Arbeitstag fragt jemand: 'Alles gut?' Dir geht es eigentlich nicht so gut. Was sagst du?", "opts": [
-        { "text": "'Ja klar, alles bestens!' Du lässt dir nichts anmerken", "s": 0 },
-        { "text": "'Bisschen müde, aber geht schon.' Du gibst einen Hinweis, hältst aber Abstand", "s": 1 },
-        { "text": "Du bist ehrlich: 'Nein, eigentlich nicht. Harter Tag'", "s": 2 },
-        { "text": "Du bist ehrlich und leicht zugleich: 'Mir ging es schon besser, aber ich lebe noch. Man muss dankbar sein'", "s": 3 }]},
-      { "dim": "magnetisme", "q": "Auf einem Networking-Event, eine Stunde nach Beginn: Wo stehst du?", "opts": [
-        { "text": "Allein oder in der Nähe des Ausgangs. Eigentlich willst du weg", "s": 0 },
-        { "text": "Im Gespräch mit einer Person, die du schon kanntest", "s": 1 },
-        { "text": "Im Gespräch mit zwei oder drei neuen Leuten, die du angesprochen hast", "s": 2 },
-        { "text": "Mitten in einer Gruppe, die sich um dich gebildet hat. Du weißt nicht genau, wie", "s": 3 }]},
-      { "dim": "magnetisme", "q": "Du organisierst ein informelles Feierabendbier für Kollegen. Wie viele kommen?", "opts": [
-        { "text": "Wenige. So etwas organisierst du nicht so schnell", "s": 0 },
-        { "text": "Ein paar feste Kollegen, mit denen du immer unterwegs bist", "s": 1 },
-        { "text": "Eine gute Gruppe. Du kennst genug Leute, die das mögen", "s": 2 },
-        { "text": "Mehr als erwartet. Es kommen sogar Leute, die du nicht eingeladen hast", "s": 3 }]},
-      { "dim": "magnetisme", "q": "Du fängst einen neuen Job an. Nach zwei Wochen: Wie viele Leute kennen deinen Namen?", "opts": [
-        { "text": "Nur dein direktes Team", "s": 0 },
-        { "text": "Dein Team plus ein paar Leute aus anderen Abteilungen", "s": 1 },
-        { "text": "Überraschend viele. Du bist herumgelaufen und hast Kontakt gesucht", "s": 2 },
-        { "text": "Fast alle, und einige haben schon eine Anekdote über dich", "s": 3 }]}
+      {
+        "dim": "opener",
+        "q": "Du kommst auf einen Kongress, auf dem du niemanden kennst. Du stehst bei einer Gruppe Fremder. Was machst du?",
+        "opts": [
+          {
+            "text": "Du wartest, bis dich jemand anspricht",
+            "s": 0
+          },
+          {
+            "text": "Du stellst dich höflich vor und fragst, was sie machen",
+            "s": 1
+          },
+          {
+            "text": "Du machst eine Bemerkung über etwas im Raum, das dir auffällt",
+            "s": 2
+          },
+          {
+            "text": "Du wirfst eine absurde Beobachtung oder Frage ein, die das Eis sofort bricht",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "opener",
+        "q": "Du sitzt in einem Meeting, das seit zehn Minuten langweiliger ist als erwartet. Alle starren auf ihre Laptops. Was machst du?",
+        "opts": [
+          {
+            "text": "Du wartest, bis es vorbei ist. Es ist nicht deine Verantwortung",
+            "s": 0
+          },
+          {
+            "text": "Du stellst eine inhaltliche Frage, um das Gespräch in Gang zu bringen",
+            "s": 1
+          },
+          {
+            "text": "Du machst eine leichte Bemerkung über die Stimmung im Raum",
+            "s": 2
+          },
+          {
+            "text": "Du durchbrichst das Muster mit etwas Unerwartetem: einem Witz, einer absurden Frage, einer persönlichen Anekdote",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "opener",
+        "q": "Jemand fragt dich: 'Wie war dein Wochenende?' Was antwortest du?",
+        "opts": [
+          {
+            "text": "'Gut, deins?', und du belässt es dabei",
+            "s": 0
+          },
+          {
+            "text": "Du gibst eine ehrliche, kurze Antwort darüber, was du gemacht hast",
+            "s": 1
+          },
+          {
+            "text": "Du wählst das bemerkenswerteste Detail und bläst es zu einer Geschichte auf",
+            "s": 2
+          },
+          {
+            "text": "Du antwortest mit etwas so Unerwartetem, dass dein Gegenüber kurz innehält",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "leeskracht",
+        "q": "Du machst einen Witz und siehst, dass eine Person in der Gruppe nicht lacht. Was registrierst du?",
+        "opts": [
+          {
+            "text": "Nichts. Du achtest nicht darauf, wer lacht und wer nicht",
+            "s": 0
+          },
+          {
+            "text": "Du bemerkst es, denkst aber: Die Person hat keinen Humor",
+            "s": 1
+          },
+          {
+            "text": "Du bemerkst es und fragst dich, ob der Witz für diese Person zu weit ging",
+            "s": 2
+          },
+          {
+            "text": "Du bemerkst es sofort, liest den Grund (Unbehagen, Timing, persönlich) und passt deinen Ton an",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "leeskracht",
+        "q": "Du bist auf einem Empfang. Eine kleine Gruppe führt offensichtlich ein ernstes Gespräch. Du willst dazu. Was machst du?",
+        "opts": [
+          {
+            "text": "Du gehst hin und mischst dich ins Gespräch",
+            "s": 0
+          },
+          {
+            "text": "Du wartest, bis das Gespräch leichter wird, und steigst dann ein",
+            "s": 1
+          },
+          {
+            "text": "Du liest die Körpersprache (geschlossener oder offener Kreis?) und wählst deinen Moment",
+            "s": 2
+          },
+          {
+            "text": "Du schnappst ein Fragment auf, wartest auf einen natürlichen Moment und steigst mit etwas ein, das zum Ton passt",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "leeskracht",
+        "q": "Ein Kollege erzählt begeistert von einem Projekt, aber in einem Nebensatz hörst du etwas, das nach Zweifel klingt. Was machst du?",
+        "opts": [
+          {
+            "text": "Du hörst höflich zu und machst mit deinem Tag weiter",
+            "s": 0
+          },
+          {
+            "text": "Du fragst allgemein zum Projekt nach",
+            "s": 1
+          },
+          {
+            "text": "Du merkst es dir und sprichst es später an",
+            "s": 2
+          },
+          {
+            "text": "Du greifst es sofort auf: 'Moment, das Letzte klang, als wärst du dir bei etwas nicht ganz sicher'",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "herstel",
+        "q": "Du machst einen Witz, der überhaupt nicht landet. Peinliche Stille. Was machst du?",
+        "opts": [
+          {
+            "text": "Du fühlst dich schlecht und hältst für den Rest des Gesprächs den Mund",
+            "s": 0
+          },
+          {
+            "text": "Du tust, als wäre nichts passiert, und machst schnell weiter",
+            "s": 1
+          },
+          {
+            "text": "Du benennst es: 'Okay, das war eindeutig nicht mein bester', und machst weiter",
+            "s": 2
+          },
+          {
+            "text": "Du machst einen zweiten Witz daraus: 'Das muss ich selbst erstmal verarbeiten', und aus der Stille wird doch noch ein Lachen",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "herstel",
+        "q": "Du sagst etwas Persönliches zu einem neuen Kollegen und siehst, dass es zu früh war. Der andere zieht sich zurück. Was machst du?",
+        "opts": [
+          {
+            "text": "Du fühlst dich schuldig und meidest die Person eine Weile",
+            "s": 0
+          },
+          {
+            "text": "Du tust, als wäre nichts passiert, und bleibst auf sicherem Terrain",
+            "s": 1
+          },
+          {
+            "text": "Du erkennst es subtil an: 'Sorry, das war vielleicht etwas zu direkt', und gibst Raum",
+            "s": 2
+          },
+          {
+            "text": "Du machst es mit einem Witz über dich selbst leicht und lässt den anderen entscheiden, ob er weitermachen will",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "herstel",
+        "q": "Du wirst in einer Gruppe für etwas korrigiert, das du gerade gesagt hast. Es fühlt sich unangenehm an. Wie reagierst du?",
+        "opts": [
+          {
+            "text": "Du wirst defensiv oder still. Es trifft dich mehr, als du zeigst",
+            "s": 0
+          },
+          {
+            "text": "Du akzeptierst die Korrektur höflich und machst weiter",
+            "s": 1
+          },
+          {
+            "text": "Du bedankst dich und machst eine leichte Bemerkung über deinen eigenen Fehler",
+            "s": 2
+          },
+          {
+            "text": "Du lachst über dich selbst, übertreibst deinen Fehler theatralisch, und die Spannung verschwindet",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "authentiek",
+        "q": "Du sitzt in einem Meeting mit dem Senior Management. Wie anders verhältst du dich als mit deinen direkten Kollegen?",
+        "opts": [
+          {
+            "text": "Komplett anders. Du wägst jedes Wort ab und bist formeller",
+            "s": 0
+          },
+          {
+            "text": "Deutlich anders. Du hältst dich zurück und gehst auf Nummer sicher",
+            "s": 1
+          },
+          {
+            "text": "Leicht angepasst. Du liest die Situation, bleibst aber erkennbar",
+            "s": 2
+          },
+          {
+            "text": "Kaum. Du bist dieselbe Person, egal wer am Tisch sitzt",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "authentiek",
+        "q": "Jemand fragt deine Meinung zu einer Idee, die du nicht besonders stark findest. Der Urheber sitzt daneben. Was machst du?",
+        "opts": [
+          {
+            "text": "Du sagst, dass du die Idee gut findest. Du willst niemanden verletzen",
+            "s": 0
+          },
+          {
+            "text": "Du nennst ein paar positive Punkte und behältst deine Kritik für dich",
+            "s": 1
+          },
+          {
+            "text": "Du gibst deine ehrliche Meinung, verpackst sie aber sorgfältig",
+            "s": 2
+          },
+          {
+            "text": "Du sagst, was du denkst: direkt, ehrlich, mit Respekt, aber ohne Zuckerguss",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "authentiek",
+        "q": "Nach einem langen Arbeitstag fragt jemand: 'Alles gut?' Dir geht es eigentlich nicht so gut. Was sagst du?",
+        "opts": [
+          {
+            "text": "'Ja klar, alles bestens!' Du lässt dir nichts anmerken",
+            "s": 0
+          },
+          {
+            "text": "'Bisschen müde, aber geht schon.' Du gibst einen Hinweis, hältst aber Abstand",
+            "s": 1
+          },
+          {
+            "text": "Du bist ehrlich: 'Nein, eigentlich nicht. Harter Tag'",
+            "s": 2
+          },
+          {
+            "text": "Du bist ehrlich und leicht zugleich: 'Mir ging es schon besser, aber ich lebe noch. Man muss dankbar sein'",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "magnetisme",
+        "q": "Auf einem Networking-Event, eine Stunde nach Beginn: Wo stehst du?",
+        "opts": [
+          {
+            "text": "Allein oder in der Nähe des Ausgangs. Eigentlich willst du weg",
+            "s": 0
+          },
+          {
+            "text": "Im Gespräch mit einer Person, die du schon kanntest",
+            "s": 1
+          },
+          {
+            "text": "Im Gespräch mit zwei oder drei neuen Leuten, die du angesprochen hast",
+            "s": 2
+          },
+          {
+            "text": "Mitten in einer Gruppe, die sich um dich gebildet hat. Du weißt nicht genau, wie",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "magnetisme",
+        "q": "Du organisierst ein informelles Feierabendbier für Kollegen. Wie viele kommen?",
+        "opts": [
+          {
+            "text": "Wenige. So etwas organisierst du nicht so schnell",
+            "s": 0
+          },
+          {
+            "text": "Ein paar feste Kollegen, mit denen du immer unterwegs bist",
+            "s": 1
+          },
+          {
+            "text": "Eine gute Gruppe. Du kennst genug Leute, die das mögen",
+            "s": 2
+          },
+          {
+            "text": "Mehr als erwartet. Es kommen sogar Leute, die du nicht eingeladen hast",
+            "s": 3
+          }
+        ]
+      },
+      {
+        "dim": "magnetisme",
+        "q": "Du fängst einen neuen Job an. Nach zwei Wochen: Wie viele Leute kennen deinen Namen?",
+        "opts": [
+          {
+            "text": "Nur dein direktes Team",
+            "s": 0
+          },
+          {
+            "text": "Dein Team plus ein paar Leute aus anderen Abteilungen",
+            "s": 1
+          },
+          {
+            "text": "Überraschend viele. Du bist herumgelaufen und hast Kontakt gesucht",
+            "s": 2
+          },
+          {
+            "text": "Fast alle, und einige haben schon eine Anekdote über dich",
+            "s": 3
+          }
+        ]
+      }
     ],
     "hqQuestions": [
-      { "q": "Dein Kollege stolpert im Besprechungsraum über ein Kabel. Was machst du?", "opts": [
-        { "text": "Du machst eine große Show daraus: 'Meine Damen und Herren, der Hauptact des Nachmittags!'", "e": 2, "a": -1 },
-        { "text": "Du grinst trocken: 'Das Kabel war hier monatelang das leistungsstärkste Teammitglied.'", "e": -2, "a": 2 },
-        { "text": "Du hilfst ihm hoch und machst einen Witz über deine eigene Tollpatschigkeit", "e": -1, "a": -2 },
-        { "text": "Du sagst mit unbewegter Miene: 'Schön. Genau die Energie, die dieses Meeting gebraucht hat.'", "e": -2, "a": 1 }]},
-      { "q": "Du bist auf einer Party, auf der du kaum jemanden kennst. Wie brichst du das Eis?", "opts": [
-        { "text": "Du machst laut eine Beobachtung über etwas Absurdes im Raum. Alle hören es", "e": 2, "a": 0 },
-        { "text": "Du machst eine persönliche, leicht verletzliche Bemerkung zu der Person neben dir", "e": -1, "a": -2 },
-        { "text": "Du machst einen scharfen Witz über den Gastgeber oder das Essen, gerade so an der Grenze", "e": 1, "a": 2 },
-        { "text": "Du wartest, beobachtest und platzierst dann genau die richtige Bemerkung im genau richtigen Moment", "e": -2, "a": 0 }]},
-      { "q": "Eine Präsentation geht komplett schief. Die Folien funktionieren nicht. Was sagst du?", "opts": [
-        { "text": "Du improvisierst theatralisch: 'Willkommen zu meinem TED Talk. Ohne das T, das E und das D.'", "e": 2, "a": 0 },
-        { "text": "Du murmelst zu deinem Nachbarn: 'Das ist das Beste, was dieser Präsentation passieren konnte.'", "e": -2, "a": 2 },
-        { "text": "Du sagst: 'Genau so sieht mein Leben auch aus. Voller guter Vorsätze, null Umsetzung.'", "e": 0, "a": -2 },
-        { "text": "Du übernimmst den Raum mit Energie und machst eine Geschichte daraus, die alle mitnimmt", "e": 2, "a": -1 }]},
-      { "q": "Dein bester Freund erzählt dir stolz von einer neuen Idee, die du nicht besonders stark findest. Was machst du?", "opts": [
-        { "text": "Du sagst begeistert, was daran gut ist, und machst einen Witz über deine eigenen schlechten Ideen", "e": 0, "a": -2 },
-        { "text": "Du machst eine trockene Bemerkung: 'Hat dich jemand dafür bezahlt, oder ist das gratis schlecht?'", "e": -1, "a": 2 },
-        { "text": "Du spielst auf große, theatralische Weise den Advocatus Diaboli", "e": 2, "a": 1 },
-        { "text": "Du lächelst subtil und stellst eine Frage, die ihn selbst zur Erkenntnis bringt", "e": -2, "a": -1 }]},
-      { "q": "Dein Chef schickt eine E-Mail mit 47 Bulletpoints und der Betreffzeile 'Kurzes Update'. Was denkst du?", "opts": [
-        { "text": "Du antwortest an alle: 'Danke für die Zusammenfassung. Gibt es auch eine Zusammenfassung der Zusammenfassung?'", "e": 2, "a": 2 },
-        { "text": "Du schreibst einem Kollegen: 'Ich habe gerade einen Roman gelesen. Spoiler: Das Ende ist ein Action Item.'", "e": -1, "a": 1 },
-        { "text": "Du lässt es auf sich beruhen, erzählst es aber später als lustige Geschichte beim Bier", "e": 0, "a": -1 },
-        { "text": "Du schickst deinem Chef eine freundliche Nachricht, dass es vielleicht kürzer ginge", "e": -1, "a": -2 }]},
-      { "q": "Jemand erzählt einen Witz, der überhaupt nicht landet. Peinliche Stille. Was machst du?", "opts": [
-        { "text": "Du rettest ihn, indem du selbst noch einen draufsetzt. Größer, absurder", "e": 2, "a": -1 },
-        { "text": "Du sagst mit unbewegter Miene: 'Das war so schlecht, dass es fast wieder gut war. Fast.'", "e": -1, "a": 2 },
-        { "text": "Du lachst mit, obwohl es nicht lustig war. Du würdigst den Versuch", "e": -1, "a": -2 },
-        { "text": "Du lässt die Stille stehen. Genießt sie heimlich. Schaust dich um.", "e": -2, "a": 1 }]},
-      { "q": "Du wirst gebeten, beim Abschied eines Kollegen eine Rede zu halten. Wie gehst du es an?", "opts": [
-        { "text": "Groß, warm, mit vielen öffentlichen Komplimenten und ein paar Insider-Witzen", "e": 2, "a": -1 },
-        { "text": "Kurz, trocken, mit einer treffenden Beobachtung, die den Raum erst still macht und dann lachen lässt", "e": -1, "a": 2 },
-        { "text": "Persönlich, ehrlich, mit einer Geschichte über einen verletzlichen Moment, den ihr geteilt habt", "e": 0, "a": -2 },
-        { "text": "Du eröffnest mit einer unerwarteten Anekdote, die niemand kommen sieht, und endest mit einem stillen Augenzwinkern", "e": -2, "a": 0 }]},
-      { "q": "Eine Diskussion bei der Arbeit ist festgefahren. Alle sitzen in den Schützengräben. Was machst du?", "opts": [
-        { "text": "Du benennst die Absurdität laut, für alle: 'Wir benehmen uns wie Kleinkinder mit Vorstandsbudget.'", "e": 2, "a": 1 },
-        { "text": "Du flüsterst deinem Nachbarn etwas zu, das ihn zum Lachen bringt. Die Spannung bricht", "e": -2, "a": 0 },
-        { "text": "Du machst einen Witz über dich selbst: 'Ich verstehe es auch nicht, ich dachte, ich nicke einfach weiter.'", "e": 0, "a": -2 },
-        { "text": "Du wirfst ein Beispiel ein, das so verrückt ist, dass es die Sache aufbricht", "e": 1, "a": -1 }]},
-      { "q": "Welche Comedians sprechen dich am meisten an?", "opts": [
-        { "text": "Robin Williams, Otto Waalkes: groß, energiegeladen, unberechenbar", "e": 2, "a": -1 },
-        { "text": "Ricky Gervais, Jan Böhmermann: scharf, ehrlich, konfrontativ", "e": 1, "a": 2 },
-        { "text": "Jerry Seinfeld, Hape Kerkeling: warm, beobachtend, nahbar", "e": -1, "a": -2 },
-        { "text": "Steven Wright, Torsten Sträter: trocken, deadpan, untergründig scharf", "e": -2, "a": 1 }]},
-      { "q": "Du sitzt in einem langweiligen Meeting fest. Was geht dir durch den Kopf?", "opts": [
-        { "text": "Du überlegst, wie du das später beim Bier nacherzählst, mit Stimmen und allem", "e": 2, "a": 0 },
-        { "text": "Du denkst dir einen vernichtenden Einzeiler aus, den du vielleicht deinem Nachbarn zuflüsterst", "e": -1, "a": 2 },
-        { "text": "Du überlegst, wie du das Gespräch auf warme Weise entgleisen lassen kannst", "e": 0, "a": -1 },
-        { "text": "Du beobachtest still das Theater um dich herum und genießt die Absurdität", "e": -2, "a": 0 }]},
-      { "q": "Wie reagierst du, wenn dir jemand ein Kompliment macht?", "opts": [
-        { "text": "Du machst eine große Sache daraus. Übertrieben bescheiden, theatralisch, sodass alle lachen", "e": 2, "a": -1 },
-        { "text": "Du konterst mit einem scharfen Witz: 'Endlich merkt es mal jemand.'", "e": 0, "a": 2 },
-        { "text": "Du bedankst dich aufrichtig und machst einen Witz über deine eigenen Schwächen", "e": -1, "a": -2 },
-        { "text": "Du nickst, lächelst und sagst nichts. Lässt es einen Moment stehen", "e": -2, "a": 0 }]},
-      { "q": "Letzte Frage. Was ist Humor für dich?", "opts": [
-        { "text": "Energie: der Funke, der einen Raum zum Leben erweckt", "e": 2, "a": -1 },
-        { "text": "Eine Waffe: die Wahrheit so sagen, dass sie ankommt", "e": 0, "a": 2 },
-        { "text": "Verbindung: der Moment, in dem zwei Menschen echten Kontakt machen", "e": -1, "a": -2 },
-        { "text": "Beobachtung: sehen, was andere nicht sehen", "e": -2, "a": 1 }]}
+      {
+        "q": "Dein Kollege stolpert im Besprechungsraum über ein Kabel. Was machst du?",
+        "opts": [
+          {
+            "text": "Du machst eine große Show daraus: 'Meine Damen und Herren, der Hauptact des Nachmittags!'",
+            "e": 2,
+            "a": -1
+          },
+          {
+            "text": "Du grinst trocken: 'Das Kabel war hier monatelang das leistungsstärkste Teammitglied.'",
+            "e": -2,
+            "a": 2
+          },
+          {
+            "text": "Du hilfst ihm hoch und machst einen Witz über deine eigene Tollpatschigkeit",
+            "e": -1,
+            "a": -2
+          },
+          {
+            "text": "Du sagst mit unbewegter Miene: 'Schön. Genau die Energie, die dieses Meeting gebraucht hat.'",
+            "e": -2,
+            "a": 1
+          }
+        ]
+      },
+      {
+        "q": "Du bist auf einer Party, auf der du kaum jemanden kennst. Wie brichst du das Eis?",
+        "opts": [
+          {
+            "text": "Du machst laut eine Beobachtung über etwas Absurdes im Raum. Alle hören es",
+            "e": 2,
+            "a": 0
+          },
+          {
+            "text": "Du machst eine persönliche, leicht verletzliche Bemerkung zu der Person neben dir",
+            "e": -1,
+            "a": -2
+          },
+          {
+            "text": "Du machst einen scharfen Witz über den Gastgeber oder das Essen, gerade so an der Grenze",
+            "e": 1,
+            "a": 2
+          },
+          {
+            "text": "Du wartest, beobachtest und platzierst dann genau die richtige Bemerkung im genau richtigen Moment",
+            "e": -2,
+            "a": 0
+          }
+        ]
+      },
+      {
+        "q": "Eine Präsentation geht komplett schief. Die Folien funktionieren nicht. Was sagst du?",
+        "opts": [
+          {
+            "text": "Du improvisierst theatralisch: 'Willkommen zu meinem TED Talk. Ohne das T, das E und das D.'",
+            "e": 2,
+            "a": 0
+          },
+          {
+            "text": "Du murmelst zu deinem Nachbarn: 'Das ist das Beste, was dieser Präsentation passieren konnte.'",
+            "e": -2,
+            "a": 2
+          },
+          {
+            "text": "Du sagst: 'Genau so sieht mein Leben auch aus. Voller guter Vorsätze, null Umsetzung.'",
+            "e": 0,
+            "a": -2
+          },
+          {
+            "text": "Du übernimmst den Raum mit Energie und machst eine Geschichte daraus, die alle mitnimmt",
+            "e": 2,
+            "a": -1
+          }
+        ]
+      },
+      {
+        "q": "Dein bester Freund erzählt dir stolz von einer neuen Idee, die du nicht besonders stark findest. Was machst du?",
+        "opts": [
+          {
+            "text": "Du sagst begeistert, was daran gut ist, und machst einen Witz über deine eigenen schlechten Ideen",
+            "e": 0,
+            "a": -2
+          },
+          {
+            "text": "Du machst eine trockene Bemerkung: 'Hat dich jemand dafür bezahlt, oder ist das gratis schlecht?'",
+            "e": -1,
+            "a": 2
+          },
+          {
+            "text": "Du spielst auf große, theatralische Weise den Advocatus Diaboli",
+            "e": 2,
+            "a": 1
+          },
+          {
+            "text": "Du lächelst subtil und stellst eine Frage, die ihn selbst zur Erkenntnis bringt",
+            "e": -2,
+            "a": -1
+          }
+        ]
+      },
+      {
+        "q": "Dein Chef schickt eine E-Mail mit 47 Bulletpoints und der Betreffzeile 'Kurzes Update'. Was denkst du?",
+        "opts": [
+          {
+            "text": "Du antwortest an alle: 'Danke für die Zusammenfassung. Gibt es auch eine Zusammenfassung der Zusammenfassung?'",
+            "e": 2,
+            "a": 2
+          },
+          {
+            "text": "Du schreibst einem Kollegen: 'Ich habe gerade einen Roman gelesen. Spoiler: Das Ende ist ein Action Item.'",
+            "e": -1,
+            "a": 1
+          },
+          {
+            "text": "Du lässt es auf sich beruhen, erzählst es aber später als lustige Geschichte beim Bier",
+            "e": 0,
+            "a": -1
+          },
+          {
+            "text": "Du schickst deinem Chef eine freundliche Nachricht, dass es vielleicht kürzer ginge",
+            "e": -1,
+            "a": -2
+          }
+        ]
+      },
+      {
+        "q": "Jemand erzählt einen Witz, der überhaupt nicht landet. Peinliche Stille. Was machst du?",
+        "opts": [
+          {
+            "text": "Du rettest ihn, indem du selbst noch einen draufsetzt. Größer, absurder",
+            "e": 2,
+            "a": -1
+          },
+          {
+            "text": "Du sagst mit unbewegter Miene: 'Das war so schlecht, dass es fast wieder gut war. Fast.'",
+            "e": -1,
+            "a": 2
+          },
+          {
+            "text": "Du lachst mit, obwohl es nicht lustig war. Du würdigst den Versuch",
+            "e": -1,
+            "a": -2
+          },
+          {
+            "text": "Du lässt die Stille stehen. Genießt sie heimlich. Schaust dich um.",
+            "e": -2,
+            "a": 1
+          }
+        ]
+      },
+      {
+        "q": "Du wirst gebeten, beim Abschied eines Kollegen eine Rede zu halten. Wie gehst du es an?",
+        "opts": [
+          {
+            "text": "Groß, warm, mit vielen öffentlichen Komplimenten und ein paar Insider-Witzen",
+            "e": 2,
+            "a": -1
+          },
+          {
+            "text": "Kurz, trocken, mit einer treffenden Beobachtung, die den Raum erst still macht und dann lachen lässt",
+            "e": -1,
+            "a": 2
+          },
+          {
+            "text": "Persönlich, ehrlich, mit einer Geschichte über einen verletzlichen Moment, den ihr geteilt habt",
+            "e": 0,
+            "a": -2
+          },
+          {
+            "text": "Du eröffnest mit einer unerwarteten Anekdote, die niemand kommen sieht, und endest mit einem stillen Augenzwinkern",
+            "e": -2,
+            "a": 0
+          }
+        ]
+      },
+      {
+        "q": "Eine Diskussion bei der Arbeit ist festgefahren. Alle sitzen in den Schützengräben. Was machst du?",
+        "opts": [
+          {
+            "text": "Du benennst die Absurdität laut, für alle: 'Wir benehmen uns wie Kleinkinder mit Vorstandsbudget.'",
+            "e": 2,
+            "a": 1
+          },
+          {
+            "text": "Du flüsterst deinem Nachbarn etwas zu, das ihn zum Lachen bringt. Die Spannung bricht",
+            "e": -2,
+            "a": 0
+          },
+          {
+            "text": "Du machst einen Witz über dich selbst: 'Ich verstehe es auch nicht, ich dachte, ich nicke einfach weiter.'",
+            "e": 0,
+            "a": -2
+          },
+          {
+            "text": "Du wirfst ein Beispiel ein, das so verrückt ist, dass es die Sache aufbricht",
+            "e": 1,
+            "a": -1
+          }
+        ]
+      },
+      {
+        "q": "Welche Comedians sprechen dich am meisten an?",
+        "opts": [
+          {
+            "text": "Robin Williams, Otto Waalkes: groß, energiegeladen, unberechenbar",
+            "e": 2,
+            "a": -1
+          },
+          {
+            "text": "Ricky Gervais, Jan Böhmermann: scharf, ehrlich, konfrontativ",
+            "e": 1,
+            "a": 2
+          },
+          {
+            "text": "Jerry Seinfeld, Hape Kerkeling: warm, beobachtend, nahbar",
+            "e": -1,
+            "a": -2
+          },
+          {
+            "text": "Steven Wright, Torsten Sträter: trocken, deadpan, untergründig scharf",
+            "e": -2,
+            "a": 1
+          }
+        ]
+      },
+      {
+        "q": "Du sitzt in einem langweiligen Meeting fest. Was geht dir durch den Kopf?",
+        "opts": [
+          {
+            "text": "Du überlegst, wie du das später beim Bier nacherzählst, mit Stimmen und allem",
+            "e": 2,
+            "a": 0
+          },
+          {
+            "text": "Du denkst dir einen vernichtenden Einzeiler aus, den du vielleicht deinem Nachbarn zuflüsterst",
+            "e": -1,
+            "a": 2
+          },
+          {
+            "text": "Du überlegst, wie du das Gespräch auf warme Weise entgleisen lassen kannst",
+            "e": 0,
+            "a": -1
+          },
+          {
+            "text": "Du beobachtest still das Theater um dich herum und genießt die Absurdität",
+            "e": -2,
+            "a": 0
+          }
+        ]
+      },
+      {
+        "q": "Wie reagierst du, wenn dir jemand ein Kompliment macht?",
+        "opts": [
+          {
+            "text": "Du machst eine große Sache daraus. Übertrieben bescheiden, theatralisch, sodass alle lachen",
+            "e": 2,
+            "a": -1
+          },
+          {
+            "text": "Du konterst mit einem scharfen Witz: 'Endlich merkt es mal jemand.'",
+            "e": 0,
+            "a": 2
+          },
+          {
+            "text": "Du bedankst dich aufrichtig und machst einen Witz über deine eigenen Schwächen",
+            "e": -1,
+            "a": -2
+          },
+          {
+            "text": "Du nickst, lächelst und sagst nichts. Lässt es einen Moment stehen",
+            "e": -2,
+            "a": 0
+          }
+        ]
+      },
+      {
+        "q": "Letzte Frage. Was ist Humor für dich?",
+        "opts": [
+          {
+            "text": "Energie: der Funke, der einen Raum zum Leben erweckt",
+            "e": 2,
+            "a": -1
+          },
+          {
+            "text": "Eine Waffe: die Wahrheit so sagen, dass sie ankommt",
+            "e": 0,
+            "a": 2
+          },
+          {
+            "text": "Verbindung: der Moment, in dem zwei Menschen echten Kontakt machen",
+            "e": -1,
+            "a": -2
+          },
+          {
+            "text": "Beobachtung: sehen, was andere nicht sehen",
+            "e": -2,
+            "a": 1
+          }
+        ]
+      }
     ],
     "hqTypes": {
-      "magnet": { "name": "Der Magnet", "sub": "Expressiv und verbindend",
+      "magnet": {
+        "name": "Der Magnet",
+        "sub": "Expressiv und verbindend",
         "desc": "Du bist die Person, um die sich alle versammeln. Dein Humor ist groß, warm und ansteckend. Du füllst einen Raum mit Energie, ohne dass es je auf Kosten anderer geht. Menschen fühlen sich besser, wenn du da bist, und sie wissen oft nicht genau, warum. Es ist deine Ausstrahlung, deine Bereitschaft, albern zu sein, deine Weigerung, dich zu ernst zu nehmen.",
         "strength": "Du schaffst Atmosphäre. Wenn du in einem Meeting sitzt, ist der Ton anders. Leichter. Freier. Menschen trauen sich mehr.",
         "risk": "Manchmal kannst du den Raum dominieren. Nicht jeder ist immer in Stimmung für große Energie. Lerne zu lesen, wann Subtilität stärker ist.",
-        "tip": "Setze deinen Magnetismus bewusst in den ersten fünf Minuten eines Meetings ein. Du gibst den Ton an, und dieser Ton bestimmt alles, was danach kommt." },
-      "standup": { "name": "Der Stand-up", "sub": "Expressiv und angriffslustig",
+        "tip": "Setze deinen Magnetismus bewusst in den ersten fünf Minuten eines Meetings ein. Du gibst den Ton an, und dieser Ton bestimmt alles, was danach kommt."
+      },
+      "standup": {
+        "name": "Der Stand-up",
+        "sub": "Expressiv und angriffslustig",
         "desc": "Du bist die Person, die sagt, was alle denken, aber niemand auszusprechen wagt. Dein Humor ist groß, konfrontativ, manchmal unbequem und fast immer treffend. Du wagst es, den Elefanten im Raum zu benennen, und du tust es mit einem Grinsen, das die Leute gerade genug entwaffnet, um zuzuhören.",
         "strength": "Du durchbrichst Muster. Wo andere um den heißen Brei herumreden, gehst du direkt drauf zu, mit Humor als Schmiermittel.",
         "risk": "Du kannst zu weit gehen. Was du als Ehrlichkeit siehst, kann sich für den anderen wie ein Angriff anfühlen. Prüfe deine Absicht.",
-        "tip": "Die besten Stand-ups verbinden Schärfe mit Wärme. Mach den Witz, und zeig danach, dass es dir um den Menschen geht und um mehr als den Lacher." },
-      "sweetheart": { "name": "Der Sweetheart", "sub": "Subtil und verbindend",
+        "tip": "Die besten Stand-ups verbinden Schärfe mit Wärme. Mach den Witz, und zeig danach, dass es dir um den Menschen geht und um mehr als den Lacher."
+      },
+      "sweetheart": {
+        "name": "Der Sweetheart",
+        "sub": "Subtil und verbindend",
         "desc": "Du bist die stille Kraft. Dein Humor ist warm, weich und verbindend. Du bist selten die lauteste Person im Raum und doch oft die geschätzteste. Du machst Menschen froh, ohne dass sie genau sagen können, wie. Selbstironie ist deine Superkraft: Du nimmst dich selbst leicht genug, um andere zu entspannen.",
         "strength": "Du baust Vertrauen auf. Menschen öffnen sich bei dir, weil du sicher wirkst. Dein Humor verletzt niemanden und erreicht jeden.",
         "risk": "Du kannst zu nett sein. Manchmal braucht es eine scharfe Bemerkung, und du weichst ihr aus. Lerne, auch das Unbequeme zu benennen. Es macht dich vollständiger.",
-        "tip": "Unterschätze deine eigene Wirkung nicht. Der Sweetheart wird oft zugunsten der lauteren Typen übersehen, aber im Team bist du der Kitt. Ohne dich fällt alles auseinander." },
-      "sniper": { "name": "Der Sniper", "sub": "Subtil und angriffslustig",
+        "tip": "Unterschätze deine eigene Wirkung nicht. Der Sweetheart wird oft zugunsten der lauteren Typen übersehen, aber im Team bist du der Kitt. Ohne dich fällt alles auseinander."
+      },
+      "sniper": {
+        "name": "Der Sniper",
+        "sub": "Subtil und angriffslustig",
         "desc": "Du bist der Meister der trockenen, untergründigen Schärfe. Deadpan. Der Witz, der erst drei Sekunden später landet, und dann umso härter. Du sagst wenig, aber wenn du etwas sagst, sitzt es. Dein Humor ist ein Präzisionsinstrument: schmal und tief.",
         "strength": "Dein Timing ist tödlich. Wo andere zehn Witze machen, machst du einen. Und der schlägt die zehn zusammen.",
         "risk": "Nicht jeder liest dich. Subtiler Humor kann bei Menschen verloren gehen, die einen expressiveren Stil gewohnt sind, und trockene Schärfe kann bei Leuten, die dich noch nicht kennen, falsch landen.",
-        "tip": "Verbinde deine Schärfe ab und zu mit einem warmen Moment. Der Sniper, der sich auch verletzlich zeigt, ist unwiderstehlich, weil niemand damit rechnet." }
+        "tip": "Verbinde deine Schärfe ab und zu mit einem warmen Moment. Der Sniper, der sich auch verletzlich zeigt, ist unwiderstehlich, weil niemand damit rechnet."
+      }
     },
     "t": {
       "copied": "Kopiert",
@@ -265,7 +868,7 @@
       "oiShareText": "Mein Ouwehoer-Index ist {score}/100: {label}. Und deiner? Mach den Test von De kracht van het ouwehoeren.",
       "cardOiKicker": "MEIN OUWEHOER-INDEX",
       "hqTag": "Quiz",
-      "hqIntroTitle": "Vier Typen. Einer bist du.",
+      "hqIntroTitle": "Vier Typen. Welcher bist du?",
       "hqIntroMeta": "12 Situationen, 3 Minuten, keine richtigen oder falschen Antworten. Na ja, fast keine.",
       "hqStart": "Quiz starten",
       "hqStrength": "Deine Stärke",
@@ -289,6 +892,10 @@
       "bingoShareN": "Ich habe heute {n} der 12 Meeting-Floskeln live gehört. Spiel das Meeting-Bingo von De kracht van het ouwehoeren.",
       "mailSubject": "Halte mich über De kracht van het ouwehoeren auf dem Laufenden",
       "mailBody": "Hallo Bram,\n\nsetz mich auf die Liste für das Buch (deutsche Ausgabe bitte).\n\nMeine E-Mail-Adresse: {email}\n\nViele Grüße!"
+    },
+    "heroAlt": {
+      "h1": "Weniger Meetings.",
+      "flip": "Mehr Ouwehoeren."
     }
   }
 }
