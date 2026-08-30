@@ -1,6 +1,6 @@
 # De kracht van het ouwehoeren, companion-website
 
-Meertalige site (NL, EN, DE, FR, ES) bij het boek van Bram van der Boom.
+Meertalige site (NL, EN, DE, FR, ES) bij het boek van Bram van der Boom. Live: https://de-kracht-van-het-ouwehoeren.vercel.app
 
 ## Structuur
 
