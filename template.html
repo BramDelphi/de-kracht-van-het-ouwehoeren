@@ -375,10 +375,13 @@ footer{padding:44px 0 60px;border-top:1px solid var(--line)}
     <div class="kicker">{{ui.signup.kicker}}</div>
     <h2>{{ui.signup.h2}}</h2>
     <p class="lede">{{ui.signup.lede}}</p>
-    <form class="signup-form" id="signupForm">
-      <input type="email" id="signupEmail" placeholder="{{ui.signup.placeholder}}" required>
+    <form class="signup-form" id="signupForm" action="https://assets.mailerlite.com/jsonp/2571796/forms/201886499921200752/subscribe" method="post" target="mlIframe">
+      <input type="email" id="signupEmail" name="fields[email]" placeholder="{{ui.signup.placeholder}}" autocomplete="email" required>
+      <input type="hidden" name="ml-submit" value="1">
+      <input type="hidden" name="anticsrf" value="true">
       <button type="submit" class="btn">{{ui.signup.btn}}</button>
     </form>
+    <iframe name="mlIframe" title="MailerLite" aria-hidden="true" tabindex="-1" style="position:absolute;width:0;height:0;border:0;left:-9999px"></iframe>
     <div class="signup-ok" id="signupOk">{{ui.signup.ok}}</div>
     <p class="signup-fine">{{ui.signup.fine}}</p>
   </div>
@@ -700,15 +703,14 @@ function confetti(){
   }
 }
 
-/* ---------- signup (mailto until a form service is connected) ---------- */
-$('#signupForm').addEventListener('submit', ev=>{
-  ev.preventDefault();
+/* ---------- signup (MailerLite, posts into hidden iframe) ---------- */
+$('#signupForm').addEventListener('submit', ()=>{
   const email=$('#signupEmail').value.trim();
   if(!email) return;
-  const subject=encodeURIComponent(L.t.mailSubject);
-  const body=encodeURIComponent(fmt(L.t.mailBody, { email }));
-  window.location.href=`mailto:bram.vdboom@gmail.com?subject=${subject}&body=${body}`;
-  $('#signupOk').classList.add('show');
+  setTimeout(()=>{
+    $('#signupOk').classList.add('show');
+    $('#signupEmail').value='';
+  }, 350);
 });
 </script>
 </body>
